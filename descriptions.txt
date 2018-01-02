@@ -1,0 +1,1432 @@
+Be summoned to #place# as #creature.a# through your #item#, and defeat #person# to acquire #thing#.
+In #place#, the flow of #thing# is distorted, and the #color.capitalize# #item.capitalize# allows Undead to assist one another.
+Leave invasion #item#.
+Be summoned to #place# as #creature.a#, and defeat the summoner to acquire #thing#.
+Certain #group# resist their descent into #place# and persevere along the honorable path.
+The #color.capitalize# #item# is for them. 
+Invade #place#.
+Defeat #person# you have invaded to acquire #thing#.
+The #group# of #person# use this orb to seek #thing# and plunge further into dark.
+Perhaps they are more human than we?
+This #color# #item#, long a symbol of farewell, is granted to banished Undead.
+The #item# sends #creature.s# back to their homes, or sends you back to yours.
+Beware of fickle use of this #item# if you intend to nurture relations.
+#thing.s.capitalize# transmit to #place#, where they are rated.
+Also, rate #thing.s# of others.
+In #place#, the flow of #thing# is distorted, and #thing.s# allow Undead to assist (or deceive) one another.
+Check list of #group#.
+The #creature.capitalize# of #thing.capitalize# #person# oversees this list of the #group#, who have disrespected the #group# or their covenants, and shall one day face the wrath of the #group#.
+Lure #creature.s# from other worlds.
+The dreadful #item.capitalize.s# of #thing.capitalize# spread disaster across neighboring worlds.
+#creature.s# lured to the host world may end up as victims, allowing the #item.capitalize# of #thing.capitalize# to multiply, and leading to further proliferation of bane.
+Invade #place#.
+Defeat #person# you have invaded to acquire #thing#.
+The Cracked #color.capitalize# #item.capitalize# allows players to temporarily imitate this ability normally limited to the #group# of #person#.
+Check servants of the #group#.
+Egg-bearer #person# keeps this roster of those who serve #person#, #group.a#.
+#person.capitalize# praises those who offer significant #thing# to alleviate #person#'s suffering.
+But what is praise from #person# really worth?
+Invade world of player in Book of the #group.capitalize#.
+Subdue player to acquire #item.capitalize# of reprisal.
+These mystical #item.s# are granted to #group#, knights who serve #person#, so that they may serve the #group# in meting out vengeance.
+Online play item.
+Find #creature.a# who has acquired #item.a# and invade #person#'s world to pillage it.
+An art of the #group# who pray to the #group#.
+To be alive is to be vulnerable, and the #group# are no exception.
+The #group# seek another plane of existence, which transcends #thing#.
+Mystical #item# found on #creature.a#'s corpse.
+Invade the world of the murderer of #creature.a#, to defeat the perpetrator and reclaim the #item# of #person#.
+The #color.capitalize# #item.capitalize# keeps constant watch on the city of the #group#, #place#.
+Invade the world of the traitor #person#.
+Invade the world of #person#, and subdue him to reclaim the #item.capitalize# of #thing.capitalize#.
+But the #color.capitalize# #item.capitalize# has lost its focus, and its powers waver timorously.
+Where could the traitor #person# be?
+The #item# signifies an accursed #creature#.
+Those branded with #thing# are reborn after death, but will one day lose their mind and go #creature#.
+Death triggers the #item#, which returns its bearer to #place#, but at the cost of all #thing# and souls.
+The #group# treasure these dull #color# flasks.
+Fill with #thing# at bonfire. Fills HP.
+The #thing.capitalize# #item.s# are linked to the #group#. The Dark #thing.capitalize# also make reference.
+A #color# flask, from #person#'s soul.
+#person# lives to protect #thing#, and dies to protect it further.
+The #group# treasure these dull #color# #item.s#.
+Fill with #thing# at #place#.
+The #item.capitalize.s# are linked to the #group#.
+The #color.capitalize# Tales also make reference.
+Holy #thing# from #person#.
+Fully restore HP and undo irregularities.
+#person.capitalize#, child of the great #person#, is cherished by all as the symbol of #thing# and #thing#.
+#color.capitalize# weed, shaped like #item.a#.
+Temporary boost to #thing# recovery speed.
+This uniquely bitter, biting #item# is sometimes harvested in large quantities, but normally it is found near #thing#.
+Medicinal #color# #item#.
+Reduces #thing# build-up.
+#thing.capitalize# builds up when attacked by #thing#, and once triggered causes severe damage.
+Use this #item# before it reaches this point.
+Medicinal #color# #item#.
+Reduces poison build-up.
+Cures poison.
+#thing.capitalize# builds up in the body, and when it breaks out, it causes gradual damage over a period of time.
+#thing.capitalize# can be exasperating, so be certain to carry the needed quantity of these #item.s# when destined for an afflicted area.
+Potently medicinal #item# with #item.a#.
+Reduces poison and #thing#.
+Restores status.
+#thing.capitalize# is a more vicious form of #thing# which quickly leads to death.
+#item.s.capitalize# without #item.a# are useless against #thing#, and a lack of these #item.s# could lead to an early demise.
+#color.capitalize#-colored stone encasing #item.a#.
+Secret treasure of #person#.
+Reduces #thing# build-up and breaks curse.
+#creature.capitalize# are helpless against #thing#, and can only redirect their influence.
+The #item# does not dispel #thing#, but receives them as a surrogate.
+The #item# itself was once a person or some other being.
+Removes #thing# from body.
+The #group# have chosen to serve #person#, and the #item.s# symbolize this selfless choice.
+Naturally, these #item.s# are forbidden, but are allowed under special circumstances. 
+Lightly enchanted #item#.
+Repairs #item# equipped in right hand.
+Use of #item.a# depletes its #thing#, eventually rendering it ineffective.
+Repair #item.capitalize# is a precious method of repair on #place#, as it obviates the need for #item.a#.
+Used as a projectile.
+#item.capitalize.s# have limited range and accuracy compared to #item.s#, but offer a quick-and-easy ranged attack.
+#creature.capitalize# who lack other means of ranged attacks will do well to stock a few of these.
+Coated with poison.
+When #creature.a# is poisoned, it will continually take #thing# over a period of time.
+#item.capitalize# filled with #color# powder.
+Explodes, inflicting #thing# damage.
+Relatively powerful ranged #item#, especially in situations calling for #thing# damage.
+A very precious item at low levels.
+Many #group# use these to augment their strategic repertoire.
+Atrocious fecal waste material.
+Throw at #creature# to build up #thing#, but also builds up your toxicity.
+Although the #thing# makes it difficult to carry on one's #item#, turning an enemy toxic inflicts #thing# over a period of time.
+A #item# with meekly lingering #item.s#.
+Throw to shatter and spread #thing# to attract certain types of #creature.s#.
+#item.capitalize# are a concentration of #thing#, and the life-starved #creature.s# are lured by its power.
+Not effective for all #creature.s#.
+Talisman utilized by #person#'s cleric knights to hunt down the Undead.
+Blocks #thing# recovery within a limited area.
+In the outside world, the #group# are accursed creatures, and #person#'s #group# are widely praised for their #group# hunts.
+This blessed #item# blocks Undead recovery, allowing the #group# to fight with impunity.
+#color.capitalize# #item# filled with #color# powder.
+Explodes, inflicting #thing# damage.
+Powerful #item#, especially in situations calling for #thing# damage.
+A very precious #item# at low levels.
+#color.capitalize# #item.s# are especially destructive.
+#color.capitalize# charcoal-like #thing# resin.
+Applies #thing# to right-hand weapon.
+Affected weapon inflicts #thing# damage for a short time.
+Particularly effective against #creature.s# and Undead, who have an instinctual fear of #thing#.
+Rare #item# which emits #thing#.
+Applies #thing# to right-hand weapon.
+Affected weapon inflicts #thing#, making it effective against targets which are resilient to #thing#.
+Very effective against #group#.
+Limb of #person#.
+Temporary curse allows engagement with #creature.s#.
+The only way to fight back against #creature.s#, who are cursed beings, is to become cursed oneself.
+The safest method, however dreadful, is to cut off #item.a#.
+Rotten #item# that has gained poison.
+Adds #thing# effect to right-hand weapon.
+Hits with affected weapon build up enemy #thing# level.
+If #creature# is poisoned, damage will be inflicted for a period of time.
+#thing.capitalize# fragment reduced to #color# ash.
+Return to #place#.
+Bonfires are fueled by bones of the #group#.
+In rare cases, the strong urge of #group# to seek bonfires enchants their #item.s# with a homeward instinct.
+Rare tiny #color# sprite found on #creature.s#.
+Use to gain 1 #thing#.
+This #color# sprite is called #thing#, but little is known about its true nature.
+If #place# is the source of all life, then what distinction is left for #thing#?
+#item.capitalize# emitting a beautiful phasing aura of seven colors, with a very rare #thing#.
+The #color# stone does nothing special, but can serve as #item.a#, and can be dropped off a cliff to judge height by the sound of its #thing#.
+If a loud noise is heard upon its landing, then a fall off #place# is surely lethal.
+#item.capitalize# made of brass.
+Use to peer at distant #place#.
+This advanced #item# was built by a famous #group# of #place#.
+Its utility is singular, but its applications many.
+The value of these #item.s# depends greatly on the imagination of #person#.
+Slip sold by #group# of #person#.
+Annul #item.a# without committing #thing#.
+A #item# is a most sacred union, normally not subject to negotiation, but when circumstances require it, even #person# will make an exception.
+Slip sold by #group# of #person#.
+If you are killed by #creature.a#, use this to report the crime of that trespasser.
+The #creature# will be added to a list of unfortunate souls who will one day face the wrath of the #group#.
+Blood-drained, #item#.
+#item.capitalize# taken for subduing the #group#.
+The knights called the #group# punish the guilt-soaked #creature.s# of #group# and take this as proof of their conquest.
+The earless corpses of the #group# will be left behind as a warning to others, inspiring both fear and respect for #group#.
+Such is the eternal mandate of #person#.
+This faintly warm #item#, engraved with the symbol of #person#, is the ultimate honor, awarded to those who summon #person# and complete a goal.
+The symbol represents #person#'s firstborn, who lost their #item# and was expunged from #place#.
+But #person# still watches closely over their warriors.
+This faintly warm #item#, engraved with the symbol of the #group#, is the ultimate honor, awarded to those who summon #person# and complete a goal.
+#item.capitalize# imbued with the power of the #group#.
+#item.capitalize# of apostles of the #group#.
+Gain head of #creature#.
+Emit #creature# breath.
+The #group# apostles seek transcendence of life itself, attainable by transformation into #creature.a#.
+This #item# is only one step, but it cannot be reversed until #thing#.
+Gain torso of #creature#.
+Roar like #creature.a#.
+Rubbish with no value.
+Who in their right mind would bother carrying this around?
+Perhaps you need help.
+Coin made of #thing#.
+Its face shows people, god of #thing# and drink.
+Even #item.s# of great value in the world of #group# have little value in #place#, where the accepted currency is #item.s#.
+Those who dream of returning to #place# are fond of carrying these around. #item.capitalize# made of #thing#, with a portrait of the legendary #person# on its face.
+#group.capitalize# who dream of returning to the outside world are fond of carrying these around.
+#item.capitalize# made of #color#, with #person# and their #item# shown on its face.
+Those who dream of returning to #place# are fond of carrying these around.
+A strange #creature# in strange dress.
+There once was #creature.a# who had no place in this world.
+She clutched this #item# tightly, and eventually was drawn into #place#.
+Shriveled but still slightly warm.
+With this many knuckles, surely it cannot belong to #group#.
+Soul of #person#, Fire Keeper of #place#.
+A #creature#'s soul is a draw for #thing#, and held within their bosoms.
+Below just a thin layer of #thing#, are swarms of #thing# that writhe and squirm.
+Was the #color# Maiden locked in #place# for some transgression, or by her own will?
+Soul of #person#.
+#person.capitalize#'s soul is a draw for #thing#, and held within their bosoms, below just a thin layer of skin, are swarms of #thing# that writhe and squirm.
+Her #thing# #item# serves to disguise this ghastly form.
+Soul of a Daughter of Chaos, #person#.
+To them, the countless #item.s# which appeared were cradles for each tiny #thing#.
+#item.capitalize# of a long-lost Fire Keeper.
+Each #creature# is a corporeal manifestation of #place#, and a draw for the #thing# which is offered to them.
+Her #thing# is gnawed by infinite #thing.s#, and can boost the power of #item.s#.
+Reinforced #item# capture denser #thing#, allowing for increased restoration of #thing#.
+Each Fire Keeper is #creature.a# of her bonfire, and a draw for the #thing# which is offered to #creature.s#.
+#person.capitalize#'s soul is gnawed by infinite #creature.s#, and can boost the power of #item.s#.
+#item.capitalize# capture denser Estus, allowing for increased restoration of #thing#.
+Soul of #creature.a# who has long ago gone Hollow.
+Use to acquire #item.s#.
+#item.capitalize.s# are the source of all life, and whether #group#, or even #creature.s#, one continues to seek them.
+Large soul of #person# who has long ago gone Hollow.
+Soul of #person# who has long ago gone Hollow.
+Large #item# of #person# who has long ago gone Hollow.
+Use to acquire many #item.s#.
+Soul of #creature# who has long ago gone Hollow.
+Use to acquire a large amount of #item.s#.
+Large soul of a brave Undead warrior who has long ago gone Hollow.
+Great soul of #person#.
+Use to acquire an incredible amount of #item.s#.
+Rare tiny #color# sprite found on #creature.s#.
+Use to gain 1 #thing# and restore a large amount of #thing#.
+If #place# is the source of all life, then what distinguishes the #thing# we hold within ourselves?
+Rare tiny #color# #item# found on corpses.
+Very unusual twin #item.s#.
+Use to gain 2 #thing# and restore a large amount of HP.
+If the soul is the source of all life, then what distinction is left for #thing#?
+Soul of #person#, once #person#, but now #creature.a#.
+#group.capitalize# have special souls, and #person#'s soul contains all aspects of #thing#.
+Use it to acquire a huge amount of #item#, or to create #item.a#.
+Soul of #person#, who guards the grave of #person#.
+Soul of #person#, who guards #place#.
+Special #creature.s# have special #item.s#.
+Use the #item# of #person#, who inherited the #thing# #item#, to acquire a huge amount of souls, or to create a unique #item#.
+Soul of the #person.capitalize#, Lord of #thing.capitalize# and #thing.capitalize#, who linked the #item#.
+#person.capitalize# bequeathed most of their power to #group#, and burned as #thing# for the First #item.capitalize#.
+But even so, #person#'s soul is a powerful thing indeed.
+Soul serving as the core of #person#, guardian of #place#, and slayer of countless #group# seeking #place#.
+Originally #item.a# of #person#.
+Use to acquire a huge amount of #item.s#, or to create a unique weapon.
+Soul of #person# who guards #place#.
+#person.capitalize# granted this soul to their four most trusted #group#.
+Soul of #person#, which flitters in #place#.
+The butterfly's #item# is a creation of #person#.
+Soul of #person#, who guards the cathedral in the forsaken city of #place#.
+Use the soul of #person# to acquire a huge amount of souls, or to create a unique weapon.
+Soul of #person#, trapped inside #place#.
+Use the soul of #person# and antithesis to all #thing# to acquire a huge amoung of souls, or to create a unique weapon.
+Soul of #person#, god of #thing.capitalize# and guardian of #place#.
+Use the soul of #person#'s lastborn to acquire a huge amount of #item.s#, or to create a unique weapon.
+#item.capitalize# required for #item# ascension.
+A large, high-quality #item#.
+Handled by the #group#.
+Ascension for +5 standard #item#.
+Allows reinforcement to +10.
+Also, can ascend +5 #item# to #thing#.
+(raw #item# can be reinforced to +5)
+#item.capitalize# required for weapon ascension.
+Huge #item# of highest quality.
+Ascension for +10 standard #item#.
+Allows reinforcement to +15, on par with the greatest #item.s# of legend.
+#item.capitalize# created by #person#.
+Handled only by #group#.
+Ascends +10 weapon to #thing# weapon.
+(crystal #item# can be reinforced to +5)
+#item.capitalize.s# are powerful but brittle, and cannot be repaired once broken. 
+#item.capitalize# required for weapon ascension.
+Large magic #item#, a form of #item#.
+Handled only by the #group#.
+Ascends +5 magic #item#.
+Allows reinforcement to +10, the most powerful level for #item.s#.
+Ember required for #item# ascension.
+This enchanted #item#, a form of #item#, is a vestige of #place#.
+Ascends +5 #item# to enchanted #item#.
+(#item# weapon can be reinforced to +5)
+#person#'s enchanted weapon that inflicts magic damage and is boosted by #thing#.
+#item.capitalize# required for #item#.
+Divine #item.s# are property of the church, and intended for #group#.
+Ascends +5 #item# to divine #item#.
+(divine weapon can be reinforced to #thing#)
+#thing.capitalize# weapons are for #creature# hunting.
+Use against Undead and the pawns of #creature.s#.
+Large divine #item#, of secret church rites.
+Intended for select #group#.
+Allows reinforcement to +10, on par with the very weapons of #group#.
+Ember required for weapon ascension.
+The church long hid the forbidden #color# ember, and no knows of it.
+Ascends +5 #item# to occult #item#.
+(occult #item.s# can be reinforced to +5)
+Occult #item.s# were used to hunt #group#, and are effective against their followers and kin
+Large flame #item# used in ancient rites.
+Handled only by #group# knowledgeable in ancient #item.s#.
+Ascends +5 fire #item#.
+Allows reinforcement to +10, the most powerful level for #thing.capitalize# #item.s#.
+Chaos #item# is an art of #place#.
+Handled only by #group#.
+Ascends +5 flame #item# to chaos weapon.
+(chaos #item# can be reinforced to #thing#)
+#thing.capitalize# #item# are #creature# weapons augmented by #thing# which inflict #thing# damage.
+#item.capitalize# for #item# reinforcement.
+Most common #item#.
+Reinforces #item.s# to +5.
+#item.capitalize.s# are fragments of the #item.s#.
+Titanite is etched into #item.s# to reinforce.
+Larger #item#.
+Reinforces standard #item.s# to +10, and raw #item.s# to +5.
+#color.capitalize# #item# imbued with a special power.
+Reinforces magic, divine, and fire weapons to +5.
+#thing.capitalize# shards are fragments of the Legendary #item.capitalize#.
+#thing.capitalize# is etched into weapons to reinforce.
+#thing.capitalize# chunk for weapon reinforcement.
+Not found outside of #place#.
+Reinforces #thing# #item.s# to +14, and crystal, lightning #item.s# to +4.
+With the discovery of chunks in #place#, the race to locate the Legendary #item.s# has begun. 
+But could they be mere myth? 
+Titanite chunk for #item# reinforcement.
+#color.capitalize# titanite has powerful #thing# energy.
+Reinforces magic #item.s# to +9, and enchanted #item.s# to +4.
+#color.capitalize# titanite has powerful miracle energy.
+Reinforces divine weapons to +9, and occult #item.s# to +4.
+#color.capitalize# titanite has powerful fire #thing#.
+Reinforces fire #item.s# to +9, and chaos weapons to +4.
+With the discovery of #item.s# in #place#, the race to locate the Legendary Slabs has begun.
+#thing.capitalize# slab for weapon reinforcement.
+Legendary #item.s# were the domain of the #group.capitalize#.
+Reinforces #thing# #item.s# to +15, and crystal or lightning #item.s# to +5.
+Legendary #item.capitalize.s# are the heirlooms of #person#, who forged the weapons of #group#.
+Weapons forged with this #item# become rare legendary #item.s#.
+#color.capitalize# titanite slab for #item# reinforcement.
+Reinforces magic #item.s# to +10, and enchanted #item.s# to +5.
+#color.capitalize# #thing# slab for weapon reinforcement.
+Reinforces divine #item.s# to +10, and occult #item.s# to +5.
+#color.capitalize# titanite slab for weapon reinforcement.
+Reinforces fire #item.s# to +10, and chaos #item.s# to +5.
+Dragon #item# for reinforcing dragon #item.s#.
+Peeled from an ancient #creature#.
+A #creature# is inseparable from its #item.s#, and the #group#, who seek the perpetuity of the #creature#, have crossed the very end of #place# to seek this invaluable #item#. 
+Special #item# stolen from #creature.a# known as #thing.a.capitalize# #creature.capitalize#.
+When #person# passed, from several #item.capitalize.s#, great #creature.s# arose.
+The power of #thing# remains within them, and they still roam #place# today.
+This #item#-reinforcing titanite is imbued with a particularly powerful #thing#.
+Reinforces #item.s# that cannot be reinforced normally to +5.
+After this #item# was peeled from its #item#, it is said that it received a special power, but its specific nature is not clear.
+Opens #place# leading below at the far face of #place# in #place#.
+#place.capitalize# is a treacherous place.
+Do not turn your back on #group#, or the #creature.s# who serve #person#.
+This #item# opens a door in #place# sealed by ancient #thing#.
+The door leads to the grave of #person#.
+Many #group# have left for the grave, but none have returned, for they make easy prey for #creature.s#.
+With such dangers, the #item# can do more harm than good in the hands of #group#.
+Key to #place# in #place#.
+If #creature.a# becomes fatigued during an imprudent attempt to overcome #place#, the #group# will not kill him, but lock him up in #place#.
+Eventually, unless they have forgotten, they drag the #creature# off to #place#.
+Key to the cell of #place#.
+#place.capitalize#, once a trove of #item.s# and #item.s#, became a prison after the onset of #person#'s madness.
+The #group# who guard #place# know not the value of what they hide.
+In the basement of #place# are the writhing #group# of the terrifying experiments which were conducted there.
+Key to #place# from the uppermost floor of #place#, which now serves as a prison.
+The #item#'s design resembles not the key of #place#; indeed, the tower was once no prison at all, but a trove of precious #item.s#.
+Key to #place# below #place#.
+#place.capitalize# once imprisoned countless #creature.s#, but is now empty, save for a few key #creature.s#.
+They struggle to uphold their #thing#, as the horde of #group# writhe at a fearfully close proximity.
+Key to #place# from #place#.
+Swallowed by #person#.
+As its name suggests, #place# is a place of great #thing#.
+Even the polluted #creature.s# of #place# are aware of its dangers, and built this mighty door in hopes that they could remain safely separated.
+Key to the #thing# bars separating the ruins of #place# and #place#.
+The ruins of #place# were blocked off, for the cursed #creature.s# posed danger to #thing# and spirit, and the legends speak of a terrible #thing.capitalize# which was sealed away.
+Key to the annex in #place#.
+In #place#, there is a structure resembling an old cathedral.
+Its annex serves as a type of storehouse.
+#item.capitalize# of #place# to the North.
+#person.capitalize#, without saying a word, shoved #creature.a# down into the cell, and on its person was this #item#. 
+Who was this #creature#?
+And what was their purpose?
+There may be no answers, but one must still forge ahead.
+Key to the inner door of #place#.
+Big #item# belonging to a chosen #creature#.
+But this #creature# knows not what this pilgrimage has in store.
+Key to the #thing# bars on the east side of the second floor of #place#.
+#place.capitalize# is a giant #creature# prison, segmented by countless #thing# bars.
+Even if #creature.a# were to escape from a cell, passage to #place# would not be gained easily.
+Key to the floodgates of #place#, which seal away the #group.capitalize# who fell to #thing.capitalize#.
+The #group# flooded #place# to banish the #group# and the #group#.
+The agonizing #item# was made with the realization that countless lives, and the robust culture of #place#, would be lost.
+The #creature.s# now roam the ruins as #creature.s#.
+Key opening the door from #place# to #place#.
+Those banished from #place# eke out their existence in #place#, a damp lair with no trace of sunlight. Nearly half of #place# form a perilous flooded labyrinth.
+Key opening the lift leading to #place# in the basement of #place#.
+Key to the #thing# bars on the west side of the second floor of #place#.
+But even if a hero found a key in #place# to liberate this prison, would they have the means, or the heart, to ever come back?
+The purpose of this #item# is unknown.
+It appears to be a basic #item#.
+Key to the sewer chamber in #place#.
+In any community, a few #group# are sure to exhibit insatiable #thing#.
+If they were turned #creature#, and banished to #place#, would they reconsider their ways?
+Use this #item# to see for yourself.
+Key to the basement of the watchtower in #place#.
+The basement of #place# forms a stone cell.
+There are rumors of #creature.a# turned Hollow who was locked away by #person#.
+For their own good, of course.
+Extra key to a cell in #place#.
+Perhaps the #group# were careless, for there are several keys scattered about which fit #place# cells.
+Key to a residence in #place#.
+Simple, sturdy design of the locks in #place# keep out unwanted #creature.s#.
+But this is a standard #item# in these parts, and will open several residences.
+This universal #item# opens any basic lock.
+Tool of the trade for #group#.
+But in #place#, most doors are better left unopened.
+Soul of #person#, first of the #group#.
+This #item# was discovered at the dawn of the Age of #thing.capitalize#.
+#person.capitalize# administers the death of all manner of #creature.s#.
+The power of this #item# is so great that it satiates the #item#, despite the fact that much of its energy has already been offered to #thing#.
+Soul of #person# and the mother of all #creature.s#.
+This Lord #item# was found at the dawn of the Age of #thing#.
+#person.capitalize# attempted to duplicate the #item# from a soul, but instead created a distorted being of #thing# and #thing#.
+Its #thing# formed a bed of life which would become the source of all #creature.s#, and is more than enough to satiate the #item#.
+Soul of one of the #group#, who fell to #thing.capitalize#.
+A fragment of #item.a# discovered at the dawn of the Age of #thing.capitalize#.
+#person.capitalize# recognized the foresight of these four great leaders of #place#, and granted them their ranks and the #item#.
+Although this is not a full #item#, it can still satiate the #item#.
+Soul of #person#.
+A fragment of #item.a# discovered at the dawn of #place#.
+#person.capitalize# allied with #person# and turned upon the #creature.s#, and for this they were awarded #item#, embraced by the royalty, and given #item.a#. 
+Although just a piece, it will still satiate the #item#.
+#item.capitalize# bestowed upon the chosen #creature# who is destined to succeed #person#.
+#person.capitalize# is granted the art of warping between bonfires.
+To open the final door, place this #item# on the #thing.capitalize# Altar, and fill it with powerful #item.s#.
+#Item# used to etch titanite into #item.s# for reinforcement.
+Rest at #place# to make #item# reinforcement possible.
+Tool used to etch #thing# into armor for reinforcement.
+Rest at #place# to make armor reinforcement possible.
+Specialized #item# used to repair weapons and #item.s# by grinding #thing#.
+Rest at a bonfire to make #item# and #item# repair possible.
+#thing.capitalize# is fragile, and cannot be taken along.
+This secret #item# allows bonfires to be bolstered further with #thing#, so that even more #thing# can be collected.
+#thing.capitalize# was a sacred #item# passed down among #group#, but all #group# can imitate the process, in the same manner that they restore their #thing# with #item#.
+How peculiar that #creature.s# had found little use for #thing# until they turned Undead.
+A peculiar #item#.
+Its origins are unknown.
+Some deride it as a symbol of unbridled #thing#.
+Any number of items can be deposited into the #item#, and items can be managed while resting at #place#.
+Elementary #item#.
+#thing.capitalize# soul #item#.
+#item.s# inflict #thing# damage, making them effective against #thing# armor, tough #item.s#, and other physically resilient #item.s#.
+Sorcery which improves upon Soul #item.capitalize#.
+Fire strong #item#.
+At #place#, the acquisition of this #item# marks an apprentice's coronation as #creature.a#.
+Soul #item# emphasizing #thing#.
+Fire heavy soul #item#.
+A more powerful, but also slower #item#.
+Difficult to use due to #thing.a# and a limitation on the number of castings.
+#item.capitalize# which improves upon #thing.capitalize# #thing.capitalize# #item.capitalize#.
+Fire strong #thing# #thing# #item#.
+As difficult to use as #thing.capitalize# #thing.capitalize# #item.capitalize#, but powerful enough to make it well worth it.
+Adored by certain #creature.s#.
+#item.capitalize# developed by #person#.
+Fire homing #item#.
+#thing.capitalize# originates in the #item#; no wonder the #item# draws toward it.
+This #item# is a window into seeker #person#'s methods.
+#item.capitalize# boosted by the #thing#.
+#person.capitalize# acquired at #place#.
+Fire homing #thing# #item#.
+The mysteries of #item.s#, #item.s#, and the #item.s# are deeply intertwined.
+Fire piercing #thing# #item#.
+A symbol of #person#'s #thing#, the #thing# #item# is referenced repeatedly in the legends, and is said to be on par with #person#'s #thing#.
+Fire piercing #thing# #thing# #item#.
+These pale #thing# #item.s#, sharpened through crystallization, are on par with the #item# of the #group#.
+#item.capitalize# for #group# who wield #item.s#.
+#thing.capitalize# augmentation: right #item#.
+The power of the #group# is predicated upon this and #thing.capitalize# #item.capitalize#.
+Many #group# learn #item.s# just for this.
+Sorcery which improves upon #thing.capitalize# #item.capitalize#.
+High #thing# augmentation: right #item#.
+At #place#, only #group# on special orders are allowed to learn this spell which grants powerful augmentation to various #item.s#.
+High #thing# + crystallization: right #item#.
+#person.capitalize#'s trials were successful, and the #thing# medium facilitated a stronger bond between weapon and #thing#.
+#Spell# for #group# who wield #item.s#.
+#thing.capitalize# augmentation: left #item#.
+#item.capitalize.s# augmented by #thing# are resistant to #thing# attacks and have higher stability.
+This #item# makes it possible to challenge #group# with a small shield.
+#item.capitalize# which improves upon #thing.capitalize# #item.capitalize#.
+High #thing# augmentation: left #item#.
+At #place#, only #group# on special orders are allowed to learn this spell which grants temporary #thing# to #item.s#.
+Ancient #item# of #place#.
+Turns right #item# invisible.
+Not a simple #item#, making it dependent on the #thing# of its caster. 
+An example of the capacity of #place# sorceries to control #thing#.
+Ancient #item# of #place#.
+Turns body nearly invisible.
+Although perfect #thing# is unachievable due to the risk of dissipation, the #creature# need only stand still for a moment to blend in to environs with astounding #thing#.
+Cast a bright #thing# upon surroundings.
+This #thing#-producing #item# is elementary but nonetheless demonstrates the achievements in mysticism of #place#.
+Such #thing# has not been developed even in #place#.
+#item.capitalize# developed by a certain surreptitious #creature# at #place#.
+Masks all noises of #creature#.
+Effectively, #place# is controlled by the #group#, and it is no wonder that the town has its share of #thing# secrets.
+#item.capitalize# used by playful #creature.s#.
+Lure #group# away by creating #item.a# originating in the distance.
+This #item# is not the first choice for serious #group#, but it has a surprising amount of applications, some of them extremely effective.
+Repair equipped #item.s# and #item.s#.
+This #item# was a part of everyday life in #place#.
+Its effects resemble #item#, which must have found its way into the culture of #place#.
+#item.capitalize# developed by #person# at #place#.
+Reduce #thing# and noise from fall.
+This #item#, along with #thing.capitalize#, explains the extravagant cost of hiring #group#.
+Transform into something inconspicuous.
+A separate stealth spell from Hidden #item.capitalize#.
+A skilled stealth #creature# must be aware of their or her surroundings and of which #item.s# are prime candidates for imitation.
+#item.capitalize# of #person#.
+#person.capitalize# in #place# sacrifice #thing# to undo #thing#.
+Abhorrent #item.s# eat away at the #item# of one's very existence, and cleansing oneself of #thing# is no easy task indeed.
+Sorcery of #person#, one of the #group# of #place#.
+Reduce #thing# and #thing# build-up, and undo various poisonous effects.
+One of #place#'s unique #thing# #item.s#.
+Perhaps they abandoned their #group# duty to take their #thing# arts back to #place#.
+Sorcery developed by #person# during their infatuation with #person#.
+Emit #thing# breath of #person#.
+Although it no longer causes #thing#, what madness caused #person# to appropriate this frightful power of the ancient dragons?
+Standard #item# of #place#.
+Hurl #item#.
+The #thing# damage caused by #item.s# makes them effective against #creature.s# and #group#, who by nature fear #thing#.
+Pyromancy which improves upon #item.capitalize#.
+Hurl #thing# orb.
+The flaming #thing# #item#  explodes upon impact, causing #thing# splash damage in a spectacle which seems to symbolize the strength of the #thing#-manipulating #group#.
+Ultimate #item# #item#.
+Hurl giant #item#.
+#person.capitalize#, also called the Great #item.capitalize# after this spell, believed #item# was rooted in an adoration of #thing#.
+Those who acquire this #item# usually agree.
+Primal #item# taught by #person.capitalize#.
+Erect #thing# pillars in vicinity.
+The storm of #thing# is indiscriminate, and incinerates all nearby life.
+Primal #item# of #person.capitalize#.
+Erect giant #thing# pillars in vicinity.
+The tempestuous raging #thing.s# resemble those summoned by the #group# when they challenged the #group# and scorched the very earth.
+#thing.capitalize# foreign to #place#.
+Create a surge of #thing# from palm of hand.
+Not all #item# originates in #place#.
+One hears rumors of unknown #group# inhabiting #place#, and this #item# is the work of one such outlander.
+Primal #item# taught by #person#.
+Sweep foes with #thing# #item#.
+The root #item# of #thing.capitalize#, but much more difficult to wield.
+Elementary #item#.
+Create powerful #thing# in hand.
+One of the most basic #item.s#.
+For this very reason, the #thing# thus created is fierce.
+#item.capitalize# which improves upon #thing.capitalize#.
+Create powerful, giant #thing# in hand.
+Great #item.capitalize# creates a powerful #thing#, but many #group# mock the simplicity of this #item#.
+Unique #item# crafted by #person#, considered a heretic even at #place#.
+Create #thing# mist.
+#person.capitalize# became an egg-bearing #creature# who serves #person# who speaks an unintelligible tongue.
+Create intense #thing# mist.
+Why was #person# driven from #place#?
+One only need cast this #item#, a perverse diversion from the art of #thing#, to find out.
+#item.capitalize# foreign to #place#.
+Emit #thing# which corrodes #item.s# and #item.s#.
+#Spell# of #person#, who harnessed the power of #thing# to actualize the inner-self.
+#thing.capitalize# flesh boosts #thing# and #thing#.
+Use of this #item# requires caution, as the #creature# becomes exceedingly heavy and unable to move freely.
+Intense sweating reduces #thing# damage.
+#person.capitalize#, the most accomplished pupil of #person#, pioneered new directions for the art of #thing#.
+Advanced #thing# of #person#.
+Charm #creature# and gain temporary allies.
+The #group# are lured by #thing#, and this relationship is part and parcel to the art of #item#.
+Short #thing#/#thing# boost, but lose #thing#.
+Excessive #thing# eats away the #thing#-force of its caster, and like all dangerous #item.s#, #thing.capitalize# Within was kept secret for eons.
+Art of the #item.capitalize# of #thing.capitalize#, which engulfed #person# and their #group#.
+Hurl giant  #item#, which changes strength depending on #thing#.
+The #item.capitalize# of #thing.capitalize# can melt #thing#, producing a short-lived #thing# glob.
+Erect localized #thing# #thing# pillars which change strength depending on #thing#
+#person.capitalize#, in an ambitious attempt to copy the First #item.capitalize#, created instead the #item.capitalize# of #thing.capitalize#, a twisted bed of #thing#.
+Sweep foes with #thing# #thing# whip which changes strength depending on #thing#.
+The #thing# whip was wielded by the eldest of the #group#.
+Great #item# cast by advanced #group#.
+Restores high #thing#.
+Great #item.capitalize# is a long tale, only wed by a select few.
+No #creature# will be disappointed by the bountiful #thing# that it yields.
+Great #item# cast by advanced #group#.
+Great #item.capitalize# Excerpt borrows from only several verses of Great #item.capitalize#.
+As a result, it can only be cast a stark few times.
+Special #thing# granted to the #group# of #person#.
+Restores high #thing# for self and vicinity.
+The #item.s# of #person#, grant their blessing to a great many #group#.
+Common #item# amongst #group#.
+Gradual #thing# restoration.
+Beware of the #creature# blessed by #thing#, for they shall not fall easily.
+Special #item# granted to the #group# of #person#.
+Gradual #thing# restoration for self and vicinity.
+Cherished by all, grant their blessing to a great many warriors.
+Miracle known only by the servants of #person#.
+Giant #creature# swords jut out in vicinity.
+#person.capitalize# sleeps deep within #place#, quietly overseeing all #thing#, and waiting for their servants to usher in the #item.capitalize# of #thing.capitalize#.
+#item.capitalize# known only by the servants of #person#.
+Many have died, and many #item.s# were claimed to realize the #item.capitalize# Dance, #creature.a.capitalize# ritual known only by their #group#.
+Lost #item#, foreign to the Way of #color.capitalize#.
+While active, no losses incurred upon #thing#.
+The Way of #color.capitalize# recognizes #thing# itself, but admonishes the #group#.
+It is for this very reason that this #item# was lost.
+Great #item# cast by advanced #group#.
+Return to #place#.
+Would normally link to #place#, only the curse of the #group# has distorted its #thing#, redirecting casters to #place#.
+Or perhaps for #group#, this serves as home?
+Common #item# amongst #group#.
+Create #thing#.
+This quickly-acting #item# inflicts no damage, but propels #creature.s# back and defends against #item.s#.
+#group.capitalize# use this #item# when charging into #creature.s#.
+Primal form of #thing.capitalize#.
+Create powerful #thing#.
+Wrath of the #group.capitalize# was an epic tale that tattered over time and devolved into the modern #thing.capitalize#.
+This primal form of #thing.capitalize# emits #thing.a# that also inflicts damage.
+Outland #item#, foreign to the Way of #color.capitalize#.
+Emit #thing#.
+Considered an alternate branching of #thing.capitalize#.
+Emits an expanding #thing# #item#.
+#item.capitalize# of #group# on an Undead mission.
+Display more guidance from #place#.
+Guidance facilitates communication between #group#, but their value varies greatly.
+A balance of #thing# and #thing# is required.
+#item.capitalize# passed down to those bound by the #creature.capitalize# of #thing.capitalize# covenant.
+Hurl #thing# #item#.
+#thing.capitalize# #item.s# inflict rare #thing# damage, and are very effective against #thing#, #thing#, and most of all, #creature.s#.
+#item.capitalize# passed down to those bound by the #creature.capitalize# of #thing.capitalize# covenant.
+Hurl giant #thing# spear.
+The weapon of #person#, who inherited the #thing# of #person#, but had respect only for #item.s#, and nothing else.
+#item.capitalize# born from the fading #item# of #person#.
+In the war that marked the dawn of the Age of #thing.capitalize#, #person.capitalize# wielded these rays of #thing#, which remain fierce even as they fade.
+#item.capitalize# of #person#.
+Cover body in defensive #thing# coating.
+This coating greatly boosts #thing# defense, assisting #creature.s# who must face the magic which #person# countered so proficiently.
+Miracle of #person#.
+Cover body in powerful def. #thing# coating.
+#person.capitalize#, an old battlefield compatriot of #person#, was the sworn enemy of #person#.
+He despised #thing#, and made certain to devise means of counteraction.
+Temporary auto counter vs. heavy #thing#.
+For each #thing# there is a punishment, and it is the task of #person# to define the sin, and mete out the #thing#.
+Outland #item#, foreign to the #group#.
+Slows all walking within #place#.
+This #item# is normally used to flee, as it slows walking but does not affect attacks, but nevertheless defines #thing# perfectly.
+Secret #item# of #person#.
+Prevents casting of #thing# within effect area.
+#person.capitalize# is a rogue #creature#, but she is versed in arts both new and old, and is considered to have a great range of influence even as #creature.s# are concerned.
+#item.capitalize# wielded by #person#'s firstborn.
+Boost right #item# with rays of #thing.capitalize#.
+The power of #thing#, manifested as #thing#, is very effective against #creature.s#.
+When #person# was stripped of their deific status, they left this on #person#'s coffin, perhaps as a final farewell.
+#item.capitalize# granted to those bound by covenant to #person#.
+Boost right weapon with rays of #thing#.
+The #thing# of the rays of the #thing# are manifested in vengeance, and the deeper the animus, the more devastating the attack.
+#item.capitalize# granted to those bound by covenant to #person#.
+This standard small #item# has only a modest attack but can be jabbed in rapid succession, and is effective in critical hits such as after a parry or when stabbing in the back.
+With both slash and thrust attacks, this #item# is useful in various situations.
+This #item# is useful after parrying and is normally equipped in the left hand.
+A favorite of the #group#, who are famous for fighting without #item.a#.
+The #creature.s# of #place# clutch this wickedly sharp #item# with their bony hands and make mincemeat of the #group#.
+One of the cursed #item.s# which can inflict damage upon #creature.s#.
+This wide single-edged #item# is the favorite of lowly #group#s and #creature.s#.
+Primarily a slicing #item#, but highly effective when used for critical hits, such as after parrying or from behind.
+This #item#, one of the rare #creature# #item.s#, came from the tail of #person# in #place#.
+Possessing the power of #thing#, it dances about when wielded, in a fashion reminiscent of the #group#.
+This small #item# is widely used, to an extent only matched by the #item#.
+An accessible #item# which inflicts consistent regular damage and high #thing# damage, making it applicable to a variety of situations.
+Widely-used standard #item#, only matched in ubiquity by the #item#.
+The wide #item# of this #item# emphasizes slicing and has no thrust attack.
+The horizontal sweeping motion makes this #item# effective against multiple enemies.
+Half of the #item# of this #item# is broken off.
+Only the #group# would even consider using this as a weapon.
+The #creature.s# of #place# wielded these rock-solid, long #item.s# which are excellent for thrust attacks.
+#place.capitalize# was the home of #person#, but the kingdom was reduced to ruins after a widespread outbreak of #group#.
+A fully crystallized #item#.
+How such #item.a# was created is entirely unknown.
+The crystallization boosts its attack, but makes the #item# brittle.
+The #item# cannot be used for long, as it cannot be repaired.
+This standard #item#, belonging to #person#, is of high quality, is well-forged, and has been kept in good repair.
+Easy-to-use and dependable, but unlikely to live up to its grandiose name.
+The choice #item# of the infamous #place#, also known as the #creature.capitalize# of Thorns for the gnarly spikes on their favorite weapon.
+This frightful #item# deals only thrust attacks, and causes heavy #thing#.
+The sharp spikes of this ghastly #item# cause heavy #thing#.
+The #color# knights of #place# guard the city using this beautifully slender #item#.
+Its chain attacks, in which the #creature# takes great advancing steps and makes use of their #item#, are deadly even in single hits.
+#item.capitalize# of an unknown knight, likely one of #place#'s superiors.
+High-quality #item# with a powerful blessing.
+#item.capitalize# of an unknown #creature#, likely a high-ranked knight of #place#.
+The #item# of the #creature.s# of the #group#.
+Its #item# is wide and thick, and it is wielded in an unusual manner.
+When the #group# were seduced by evil, their #creature.s# became #group#, servants of the #thing.capitalize# who wielded these #item.s#.
+This #item#, one of the rare #creature# weapons, is formed by #creature.a#'s tail.
+#creature.s.capitalize# are seen as undeveloped imitators of the #group#, but in reality they are likely their distant kin.
+The #item# is imbued with a mystical #thing#, to be released when held with both hands.
+The hilt of this lost #item# was found discarded in #place#.
+Only slightly better than one's bare hands, and not recommended for extensive use.
+Be certain to find a replacement quickly.
+This standard #item# is normally wielded with two hands due to its great #thing#.
+Usually swung in large arcs and effective against multiple #creature.s#.
+Far from ideal when fighting in tight quarters.
+This larger type of #item# is normally wielded with two hands due to its weight.
+This highly flexible #item# can be used to attack in swings or thrusts.
+This single-bladed blood-stained #item# is the choice weapon of the #group# of #place#.
+An ordinary human will have great difficulty swinging this heavy beast effectively.
+This greatsword with an undulating blade is the choice weapon of the #group# of #place#.
+This #item# is designed to flay the skin and causes heavy #thing#.
+The #thing# #creature.s# who guard #place# wield this moss-covered #item#.
+The same #thing# which created the #creature.s# is imbued in the #item#.
+Unleash this #thing# by wielding the #item# with two hands.
+#item.capitalize# born from the soul of #person#, guardian of the grave of #person#.
+#person.capitalize# hunted the #group#, and their #item# strikes harder against #group#.
+#item.capitalize# born from the soul of #person#.
+As bearer of the ultimate #thing#, #person# wielded the #item.s# of the #thing#, but before linking the #thing#, divided that #thing# amongst their children, and set off with only this #item# as their companion.
+This #item#, one of the rare #creature# weapons, came from the tail of #person#, the pale #color# #creature# who betrayed their own.
+#person.capitalize# is the grandfather of #thing#, and this #item# is imbued with their #thing#, which shall be unleashed as a wave of #thing#.
+#thing.capitalize# of the #color# #creature.s# who wander #place#.
+Used to face #thing# #creature.s#.
+The large motion that puts the #thing# of the body into the attack reflects the great size of their adversaries long ago.
+The #item# can damage #creature.s#, as it was cursed when #person# joined a covenant with the #creature.s# of #place#.
+One of the gigantic straight #item.s#.
+As the name suggests, the #item# is held with two hands, but its #creature# must still be inhumanly strong.
+It is this great #thing# that sends #creature.s# flying when hit solidly.
+Very few have what it takes to wield this incredibly heavy, #thing#-dealing #item#.
+A favorite of the #group#, known for their heavy #item#, and #person#.
+The lesser #creature.s# use these #item.s# in pairs.
+The #item# is cast #thing# and hooked.
+The #item# is imbued with no particular #thing#, but for those who have the #thing#, its great #thing# will smash foes mercilessly.
+This #item#, one of the rare #creature# weapons, came from the tail of the #thing# #creature# of Ash Lake, descendant of the #group#.
+Its great mystical #thing# will be unleashed when wielded with two hands.
+Small curved #item#.
+Each hit inflicts little #thing#, but fluid chain attacks are deadly.
+The #item#'s sharp slashing attacks are effective against #thing# and #thing#, but not against metal #item# or tough #item.s#.
+Curved #item# with sharply curved #thing#.
+Created by #person#.
+Requires great skill to wield, but evades #item# defense to sneak in #thing#.
+Jagged #item# wielded by #place# #creature.s#.
+Violent thrust attack.
+One of the cursed weapons.
+Inflicts damage to #creature.s#.
+Curved sword of #place# #creature.s#.
+Unique shape with flat tip.
+The #creature.s#, who strike down those who dare threaten the #item.s#, attack in a continuous, circular dancing motion, a technique passed down through generations.
+A curved #item# born from the soul of #person#, who was transformed into #thing.a# #creature#.
+Like #person#'s body, the #item# features shells, spikes, and a coating of #thing# #thing#.
+#thing.capitalize# affected by wielder's #thing#.
+A curved #item# used in a mysterious ancient rite.
+Imbued with a frightful #thing# energy which restores #thing# with each hit.
+Imbued with a frightful heretical #thing# , this #item# absorbs #thing# upon #creature.a#'s death.
+Giant curved #item# forged using special methods in #place#.
+This unparalleled weapon cuts like #item.a# but is heavier than #item.a#.
+Requires extreme #thing#, #thing#, and #thing# to wield.
+#item.capitalize# wielded only by servants of #person#.
+Crafted from the #item.s# of the fallen.
+The miasma of #thing# exudes from the #item#, a veritable #thing# to any living being.
+#person.capitalize#'s #item.capitalize.s#.
+#item.capitalize# forged in #place#.
+Known for its brisk slashing motions.
+The #item# cuts beautifully and causes #thing#, but its #item# is easily nicked.
+Very unusual #item# with a long #item#.
+The #item# is extremely long, but as a result, quite easily broken.
+The #item# is drawn from the scabbard at lightning speed, using #thing.a# technique.
+#thing.capitalize# allows the wielder to charge forward to swiftly cut down distant #creature.s#.
+This #item# inherits only the chaotic nature of #person#, and has a unique speckled design.
+#thing.capitalize# wielder erodes along with #creature.s#.
+Standard small thrusting #item#.
+Unsharpened but pointed solid #item# can pierce tough #item#.
+Can be thrust using the weight of one's #item#, and is very effective for critical attacks.
+Standard thrusting #item#. 
+Regular one-handed attack can be delivered with #item# held up.
+Can parry with use of left hand.
+Thrusting attacks pierce and are effective against #creature.s# with hard exteriors, but the wielder is left open to #thing# after a swing.
+The largest of the thrusting #item.s#.
+Can pierce an armored #creature# in one thrust.
+The #item# is also sharp, allowing slicing as well.
+A symbolic, powerful thrusting #item# used by #person# serving #person#.
+It is no mere #item# to be sure; #person# is an inhuman swordsman, and wields this enchanted #item# with special #item# technique.
+A #item# with intricate decorations.
+Chosen #item# of the infamous #person#.
+#person.capitalize#'s exploits are told in a monomyth.
+He was born into royalty, but wandered #place# in a fateful ill-conceived journey.
+He became Undead, and disappeared #place#.
+Small hand #item#.
+Appears identical to #person#'s #item#, but has an ideal weight and #item#, and is easy to handle.
+One wrong swing leaves the #creature# wide open, so timing and proximity to the #creature# must be judged carefully.
+Standard battle #item#.
+Inflicts regular #thing#, making it effective in various situations.
+Powerful attack due to its #thing#, but one wrong swing leaves the wielder wide open, so timing and proximity to the #creature# must be judged carefully.
+Well-used old  battle #item# with a long hilt and a crescent-shaped #item#.
+One of the blessed #item.s# of the #group#.
+The Crescent #item.capitalize# is bequeathed to #group# who have proven their #thing#.
+Giant #item# wielded by the #creature# lurking in #place#.
+More #item.a# for subduing and preparing live catches than an actual #item#.
+Those who have faced this deadly #item# have a deeper sense of how helpless prey must feel.
+An #item# born from the soul of #peron#, guardian of #place# who repelled countless heroes who sought #place#.
+Its powerful one-handed attack imitates #person#'s blade of #thing#, but the heavy #thing# #item# makes it quite unwieldy.
+Sliced tail of the #creature# guarding the #item.capitalize# of Awakening in #place# or patrolling in #place#.
+Can be used as #thing.a# battle #item#.
+Bends dramatically during large attacks, owing to its nature as a tail.
+Sliced tail of the #creature# guarding the #item.capitalize# of Awakening in #place#.
+This #item# is a veritable mass of #thing#.
+Its #thing# sends #creature.s# flying, but makes it difficult to handle without inhum#thing.a#.
+Any miss makes one very vulnerable, as each swing requires the full force of the #item#.
+Carved from the #item.s# of fellow #creature.s#.
+Wielded by the lesser #creature.s#.
+This #item# is imbued with no special power, but can merrily beat #creature.s# to a pulp, providing you have the #thing# to wield it.
+This #item#, one of the rare #creature# weapons, is formed by the tail of #person#, a distant, deformed descendant of the everlasting #creature.s#.
+The #item# is imbued with a mystical #thing#, to be released when held with both hands.
+#item.capitalize# of the #color# knights who wander #place#.
+Used to face #thing# #creature.s#.
+A simple wooden #item#.
+This simple bladeless strike #item# is effective against most #creature.s#, is easily handled, and can break the guard of #item.a#.
+#thing.capitalize# #item# with a protrusive pommel.
+Standard #item# for #group#.
+This simple bladeless strike #item# is effective against most #creature.s#, and can break the guard of #item.a#. However, one miss leaves one wide open.
+#item.capitalize# with a sharp spike on its pommel.
+One of the more barbaric cleric #item.s#.
+Uniquely, this #item# inflicts thrust damage, and causes #thing#.
+#item.capitalize# with sharp spikes on its pommel.
+The effect of these spikes makes this strike-based #item# also cause #thing#.
+#item.capitalize# with a large beak-shaped pommel.
+Originally #item.a#; redesigned for battle.
+This simple but deadly #item# hits heavily with thrust damage, such that it easily cracks #thing# armor.
+Traditionally a mining #item#, but the hard cone on the pommel is effective in battle.
+A downward swing of the #item# can crush stone; #creature.a# head would be an afterthought.
+A #item# with leather nailed to the pommel.
+#person.capitalize# proudly peddles this #item#, but its reinforcement is shoddy.
+Indeed, its attack is stronger, but the #item# is no longer dependably sturdy.
+#thing.capitalize# #item# of #person#, blacksmith at #place#.
+Can be used as a strike #item#, but better left in the hands of its talented owner.
+Wooden #item# of #person# in #place# who handles #thing# weapons.
+#person.capitalize# forges with this wooden #item#, as it would be hazardous to handle #thing# #item.s# with metals.
+#thing.capitalize# #item# of #person#, #creature.a# blacksmith deep within #place# who rarely speaks.
+Giant #item# serves as a wooden #item#.
+Smashes #creature.s# from upside the head.
+The leaping attack is a trademark of #item.s#, and this giant #item# is no exception.
+A legendary #item# of the #group#, granted to #person# long ago.
+This mass of #thing# can only be lifted by those with inhum#thing.a#, but it is blessed, and very effective against #group#.
+#creature.capitalize# #item# built from the #thing# archtrees.
+Used by lesser #creature.s# at #place#.
+This #item# is imbued with no special #thing#, but can merrily beat #creature.s# to a pulp, providing you have the #thing# to wield it.
+Created from an everlasting #creature# tooth.
+Legendary great #item# of #person#.
+The #creature# tooth will never break as it is harder than stone, and it grants its wielder resistance to #thing# and #thing#.
+Large wooden #item#.
+The giant #group# of #place# wield these #item.s#, which became poisonous from the influence of their surroundings.
+Great #item# from the #thing# of #person#, who guards the cathedral in the forsaken city of #place#.
+#person.capitalize# loved their work, and ground the #item.s# of their victims into their own feed, ruining their hopes of being ranked with the #group#.
+Bare #item.s#.
+The #item# augments one's bare hands with thick, studded #thing#.
+The #item# has a short reach, but quick cool down.
+Amount of #thing# inflicted is dependent on its wearer's #thing#.
+A #item# formed by three sharp #item.s#.
+Attacks cause #thing#, and the wounds inflicted are not easily mended.
+Preferred #item# of the #creature.s# of #place#.
+A #item# from the soul of #person#, guardian of #place# who repelled countless #creature.s# who sought #place#.
+The #group# fused the power of the #thing# with the great #item.s# of the #creature.s#, forming an appropriate core for #person#.
+The #group#, incited by #person#, use the power of the #thing# soul to absorb #thing#, an art shared by this #item#, which also acts as a special #item#.
+The #group#, particularly, could sap the #thing# of even a replete #creature# in the blink of an eye.
+Standard #item# used commonly by #soldier#s.
+Long reach, and can be used with #item# up.
+Effective against hard exteriors, and can hit for high #thing# at the right moment of #creature.a#'s swing.
+But the hit radius is small, and it is easily blocked by #item.s#.
+A long-hilted #item# with a barbed point.
+Effective against hard exteriors, and hits for high damage at the right moment of #creature.a#'s swing.
+But the hit radius is small, and it is easily blocked by shields.
+#item.capitalize# with #item# attached to broad point.
+Boasts long reach, and can slice.
+The wide range of this #item# makes it adaptable to many situations.
+Its #thing# lies in its length, but in cramped quarters, this backfires, and slices ricochet off walls.
+Wielded by the slim lesser #creature.s#.
+The #item# of these #creature.s# wandering #place# are different from those of other #creature.s#, and are imbued with #thing#.
+#item.capitalize# of the #group#, #creature.s# who serve #person# in collecting #creature# specimens.
+Thrusted in circular motions in a unique martial arts dance that stirs nearby #creature.s# into a bloodthirsty frenzy.
+The #item# can be wielded by both hands in a focused thrust that uses one's body weight, or swung in a large sweeping motion.
+Long #item# with a very long red hilt.
+Traditionally used by groups of #creature.s#.
+Specially designed for distance thrusting.
+Has the longest range of the non-projectile #item.s#, but its very length makes it somewhat difficult to handle.
+#item.capitalize# born from the soul of #person# guarding #place#.
+Inflicts #thing# damage; effective against #creature.s#.
+Two-handed thrust relies on cross and buries #item# deep within #creature.a#'s hide, and sends #creature# foes flying.
+#item.capitalize# born from the mystical #creature# of #place#, #person#.
+The #item.s# of the #creature#, a being created by #person#, are imbued with a pure #thing# power.
+Long-hilted weapon mixing #item# and #item# is difficult to handle, requiring both strength and dexterity.
+The #item# has two elementary attacks: #item#-like thrusting and large sweeping swings.
+However, one false swing and the wielder is left wide open.
+Large #item# made of old brass, used by the giant #creature.s# of #place#.
+Brass contains traces of #thing#, but as the #item# is designed for the giant #creature.s#, its weight is unbearable.
+Weapon of the #creature#, a faceless #thing# monster born from #thing# slab.
+One of the enchanted #item.s#, perhaps from residual power of the #thing# slab.
+Known for its leaping attack which comes smashing down on foes from above.
+#item.capitalize# of the #creature# guarding the #item.capitalize# of Awakening in #place#.
+Perfectly standard #thing# #item# without any special power.
+#item.capitalize# of the #color# #creature.s# who wander #place#.
+Used to face #thing# #creature.s#.
+#item.capitalize# with a large, hard beak-like protrusion.
+Inflicts thrust damage.
+Instead of thrusting like #item.a#, the wielder of the #item# aims to club the head with its hard beak.
+#item.capitalize# with a large #item#.
+#item.capitalize# adjusted for battle.
+Designed especially for slicing.
+However, one false swing leaves one wide open.
+#item.capitalize# with a long curved blade.
+Converted from #thing.a#-harvesting #item#.
+The magnificent sharp curved blade instills fear in #creature.s#.
+Perhaps it is their survival instinct at work.
+#item.capitalize# born from the soul of #person# trapped inside #place#.
+Even the #group# feared #person#'s #thing# ability, and in the hands of a mortal, its #thing# will turn upon its wielder.
+Small #item#. 
+Standard projectile #item#.
+Equip #item.s# to use.
+Aim for heads of #creature.s#.
+Large bow. Projectile weapon for experienced hunters.
+The preferred #color# #item# of the heroic #person#.
+Has a longer range than standard #item.s#, but is more difficult to use.
+Without proper abilities, results will be underwhelming.
+#item.capitalize# of the #group#, led by #person#, one of #person#'s #group#.
+This #item#'s unusual size requires that it be anchored to the ground when fired.
+Only uses specialized great #item.s#.
+Composite #item# emphasizing power.
+Requires more #thing# than standard #item.s#.
+However, its range is shorter, making it unfit for sniping.
+#item.capitalize# born from the soul of #person#, #thing# deity who watches over the abandoned city of #group#, #place#.
+This golden #item# is imbued with powerful #thing# and is most impressive with #thing.capitalize# #item.capitalize.s#.
+Standard #item# issued to #creature.s#.
+While #item.s# require both hands, #item.a# is held in one, but arming each #item# takes time.
+Equip #item.s# to use.
+Powerful large #item#.
+Repeating #item# cherished by #person#.
+Its elaborate design makes it closer to a work of art than #item.a#.
+Intricate mechanism makes heavy damage possible through triple-shot firing of #item.s#, but in fact each #item# inflicts less #thing#.
+Large #item# with long distance used by #group#.
+Often used with sniper #item.s#.
+But while #item.s# are normally easy to use, the Sniper #item.capitalize# requires #thing#.
+Sorcery #item# used by #creature.s# of #place#.
+Equip #item# to use #item.s#.
+Attune #item.s# from #item.a# at a bonfire.
+Most #item.s# have limited no. of uses.
+#item.capitalize# belonging to #person#, the rogue #creature#.
+Contrasts with #place# #item.s#.
+This ancient #item# shows signs of being used for age-old #item.s#.
+It has passed the hands of many generations to get here.
+#item.capitalize# of the banishment #item.s# who flooded #place# to seal off away the #group# and the #group# who fell to #thing.capitalize#.
+In contrast to other #item.s#, the #thing# #item# qualifies as a weapon, as it inflicts physical damage, however small.
+Catalyst of #person#, the great #creature# and seeker of #thing#.
+Originally the same #item# employed by the #group#, only terribly strengthened over time due to #person#'s use.
+Very powerful when used by one of superior #thing#.
+Catalyst born from the soul of #person# who watches over the abandoned city of #group#, #place#.
+#person.capitalize# is #person#'s lastborn and a legitimate #creature#, but they are also #thing.a.capitalize# #creature#, and this #item# is boosted by #thing#, not #thing#.
+Sorcery #item# of #place#.
+Formed by enchanted #color#bark branches.
+The #color#bark boosts #item# adjustment, but the #item.s# of #place# are gentle and not affected by #thing#.
+#item.capitalize# imbued in terrifying #thing# magic.
+Used by #person# after their fixation on #person#.
+Makes all #item.s# incredibly powerful, but demands extremely high #thing# from its wielder, and halves #item# usages.
+#creature.capitalize# #item# formed from #place# molten #thing#.
+Can be used as #thing# #item#.
+#person.capitalize# was the first #creature#, and the last master of the original #thing# arts, before #person# was engulfed by #thing.capitalize#, creating #item#.
+#item.capitalize# of #person# of long ago, when their children were still #thing# #creature.s#, before they were engulfed by the #thing.capitalize# #item.capitalize#.
+Before the birth of #item#, their #item.s# were mediums for #item#, but knowledge of this #thing# #item# has long since vanished.
+#thing.capitalize# medium used by #place# #creature.s#.
+#creature.s.capitalize# arouse this #thing# to produce various #thing# arts.
+Equip #creature# #thing# to produce #item#.
+Attune #item.s# from #item.a# at #place#.
+Most #item.s# have limited no. of uses.
+#Spell# flame drawing upon the latent power of #person#, mother of pyromancy.
+For the #creature#, #thing.a# is a precious thing indeed, to be nurtured, often for an entire lifetime.
+When the #thing# is shared, it creates an eternal bond between the parties.
+Medium for casting #item.s# of the #group#.
+Standard #item# issued to common believers.
+Equip #item# to cast #item.s#. 
+Attune #item.s# from #item.a# at a bonfire.
+#thing.capitalize# #item.capitalize# is for #creature.s# on pilgrimage.
+This #item# is only granted to high-ranking #place# #creature.s#.
+Has high #item# adjustment which, thanks to #thing# protection, is not dependent upon #thing#.
+#thing.capitalize# #item.capitalize.s# are granted only to female #creature.s#, and their value is affected dramatically by their owner's #thing#.
+#creature.capitalize# #item.capitalize#.
+The #item# of #person#, is decorated with #thing.a# symbol, illustrated by #person# himself.
+This #item# is a projection of #person#'s upstanding, unwavering #thing#.
+Granted to #group#, adherents to the Covenant of #person#.
+This #item# demands dutiful #thing# from its owner, but has very high #thing# adjustment.
+This #color# tuft of #thing# that serves as #item.a# belongs to #person#.
+It casts miracles not by drawing upon #thing#, but #thing#.
+Skull #item.capitalize# of #place# #creature#.
+Droops from their long #item.s#.
+This #item# alights #place#, #person#'s #thing#-devouring domain of #thing#.
+Also serves as #thing.a# damage strike weapon.
+Wooden #item#.
+Decorated with the ancient symbol of a double-headed #creature#, painted #color#.
+#thing.capitalize# shields are lighter th#thing.a# shields, but with lower #thing# damage reduction, and reduced shield stability.
+Vertically elongated wooden #item#.
+Decorated with a #color# #creature#.
+Large, #thing#-covered round #item#.
+Choice #item# for #group#.
+Small, #thing#-covered round #item#, reinforced in critical spots with #thing#.
+Small #item.s# are always less stable, but landing critical hits after parry is easier.
+Small round #thing# #item#.
+Four protrusions used to parry attacks.
+This #item# is specialized for parrying.
+Very small round #thing# #item#.
+Parry attacks with large center protrusion.
+Round wooden #item#.
+Cracked and nearly broken.
+#thing.capitalize# shields are lighter th#thing.a# shields, but this one has lower #thing# damage reduction stability, partly due to cracking.
+Round #thing#-covered shield.
+A standard, widely-used #item#.
+Makeshift #item# built from wood planks.
+Provides minimal protection, but at a cost of moderate #thing#.
+Round wooden shield crafted in #place#.
+Decorated by an ancient #color# #item#.
+The giant trees in #place# are distant offspring of the great #thing# archtrees.
+This #item# inherits their properties, and the #thing# greatly reduces #thing# damage.
+Imbued with a powerful #thing# power, like the #creature# created by #person#.
+Can emit #thing# light rings.
+Small metal #item#.
+This #item# is easy to use, and is one of the smallest #item.s# that offers 100% #thing# damage reduction.
+This medium #thing# #item# is elegantly carved and painted.
+Although it is thought to have been used by #group#, its defense capabilities are similar to other #item.s#.
+Medium metal #item#.
+Decorated with a tower, the symbol of #thing#.
+Old medium metal #item# of unknown origin.
+The #thing# #item# is lightly imbued with #thing#, which slightly speeds #thing# recovery.
+Metal #item# wielded by #creature.s#.
+Heavily rusted but sturdy, providing a strong #thing#.
+#item.capitalize# of the #creature.s# of #place#.
+Tweaked for improved #thing#.
+#item.capitalize# of a nameless #creature#, likely a high-ranked knight of #place#.
+One of the enchanted #color# #item.s#.
+The Crest #item.capitalize# greatly reduces #thing# damage.
+The #creature.capitalize# Crest #item.capitalize# greatly reduces #thing# damage.
+Decorated with the ancient #item#.
+This #item# inherits their properties, and the wood reduces #thing# damage.
+Thick iron #item# of #person#.
+Heaviest of the standard #item.s#.
+Deflects enemy attacks.
+A famous specimen from #person#'s collection, but none who have faced it have lived to tell the tale.
+#item.capitalize# of the savage #group#.
+Uniquely-shaped with a large #color# #creature# etched upon it.
+Has resistance to #thing#.
+#item.capitalize# of the infamous #person#.
+Covered with spikes.
+Can be used as a weapon.
+Sharp spikes cause heavy #thing#.
+A fully crystallized straight #item#.
+The crystallization boosts its #thing#, but makes the #item# brittle.
+The #item# cannot be used for long, as it cannot be repaired.
+#item.capitalize# of #person#.
+Decorated with #thing.a# symbol, but #person# illustrated it himself, and it has no #thing# powers of its own.
+As it turns out, #person#'s incredible prowess is a product of their own training, and nothing more.
+#item.capitalize# of the #group# of #place#.
+A flowing canal is carved deep into its face.
+The #group# stayed behind in #place# to defend #person#, and their #item.s# are blessed with their #thing# protection.
+#item.capitalize# of the #group# that wander #place#.
+A flowing canal is chiseled deeply into its face. 
+Long ago, the #group# faced the #creature.s#, and were charred black, but their #item.s# became highly resistant to #thing#.
+#item.capitalize# of certain knights of #place#, used in attacks with a large protrusion in center.
+Can be used as a thrust weapon.
+Round wooden #item# crafted in #place# featuring an impressive #color# and #color# design.
+Medium metal #item#.
+#thing.capitalize# #item# of the #creature# guarding the #item.capitalize# of Awakening in #place#.
+The #creature#'s skin is tough by itself, and perhaps its shield may have been a prop, for it is a rare example of a metal shield that does not reduce #thing# damage 100%.
+#item.capitalize# with #creature.a# design.
+Lightest and easiest #item# to handle.
+#item.capitalize.s# are very stable, and deflect attacks.
+But one cannot parry, and instead bashes with the #item#.
+Metal #item#.
+Used by #person#, known for their heavy #item#.
+This thick plate of #thing# is heavily defensive but ultra heavy.
+#item.capitalize.s# are very stable, and deflect attacks.
+However, one cannot parry, and instead bashes with the #item#.
+#item.capitalize# made of #thing# and #thing#.
+Used by giant #creature.s# of #place#.
+#thing.capitalize#, or #color# #thing#, is effective against non-#thing# damage, but as the #item# is designed for the giant #creature.s#, its weight is unbearable.
+Mossy round #item# used by the guardian of the #place#, the #creature.capitalize#.
+The #creature.capitalize# is a creation of ancient magic, and this #item# is imbued with the same power, but is also extremely heavy.
+Cut straight from a great slab of #thing#.
+This #item# is imbued with the #thing# of #person#, provides strong #thing#, and is incredibly heavy.
+A true divine #item# on par with the #creature.capitalize# #item.capitalize#.
+Giant wooden #thing# encircled by spikes.
+Half-melded to a strange skeleton.
+Can be used as #item.a#, only for the great gaps.
+But at least the spikes turn into #item.s# with a good spin. 
+Strange indeed!
+#item.capitalize# born from the soul of #person#, guardian of the grave of #person#.
+Boasts consistent #thing# and #thing# protection against various status effects.
+Leather #item#.
+Virtually ineffective against #thing# and tough scales, but quite formidable against enemies with exposed #thing#.
+Not intended for battle.
+#item.capitalize# with sharp spikes.
+Also causes heavy #thing#.
+Standard #item#.
+#item.capitalize.s# must be equipped to be fired.
+Large #item#.
+Heavier #item.s# cause more damage, but have a shorter range.
+#color.capitalize# feather #item.s# of #person#'s hunters.
+Their long range makes them effective for sniping.
+#item.capitalize.s# fired with flaming tips.
+Inflicts #thing# damage.
+#item.capitalize# with point dipped in poison.
+Ensures the demise of prey in a hunt, or the target in an assassination.
+Once an enemy is poisoned, one need only wait.
+#item.capitalize# granted to those bound by Covenant to #person#.
+#thing.capitalize# #item.capitalize.s# glow #color#, and inflict #thing# damage.
+These #item.s# do not fly particularly far, nor do they inflict a terrible amount of #thing#, but their cheap cost makes them useful when volume is required.
+Giant #creature#-hunting #item.s#, resembling iron #item.s#.
+Used by #person# and their #group#, they puncture human flesh easily.
+#creature.capitalize#slayer #item.capitalize.s# can only be used with the #creature.capitalize#slayer #item.capitalize#, and vice-versa.
+Used mainly with the Light #item.capitalize#.
+Equip #item# with a bolt to fire.
+Large #item#.
+Used mainly with the Heavy #item.capitalize#.
+These weighty #item.s# inflict high damage, but have reduced range.
+#color.capitalize# feather #item.s# used with the Sniper #item.capitalize#.
+Their long range makes them effective for sniping.
+Basic wood #item#.
+Special bolts imbued with #thing#, crafted by #person# of #place#.
+#person.capitalize# has never seen #item.a#, but remembers the specifications of the #item.s# requested by #group#.
+Frightful occult #item#.
+Defends against #thing# #item.s# and #thing#.
+In an ill-fated plot to destroy the very gods, the #group# once attempted to steal the power of #person#.
+Once blessed with the protection of a #color# flame, but its power has all but faded, so that it provides only slight #thing# recovery.
+The #item# spoken of in the lost legends.
+The #color# of #thing# is slightly enchanted, and boosts various resistances.
+Built of special #color# iron and even heavier than #person#'s #item#.
+Especially resistant to #thing# attacks and effective for #item# bashing.
+Distinctively shaped #item# worn by #group# .
+Outside #place#, it is often ridiculed for its #thing#-like shape, infuriating the proud #creature.s#, but the masterfully forged curved design makes it very effective for parrying.
+Distinctively shaped #item# worn by #group#.
+Distinctively shaped #item.s# worn by #group#.
+Long ago, the Way of #color.capitalize# produced its first #creature#, a paladin in #color# armor.
+With the legendary treasures Grant and Sanctus, #person.capitalize# set out for #place#, in the first Undead mission of the Way of #color.capitalize#.
+#item.capitalize# of the #group#, former knights of #place# who descended into Dark.
+Some say the skeletal #item# of an ancient #creature# is partially fused with the flesh of its face.
+Their #item# transformed, and remains a symbol of the #thing.capitalize# servants and their diabolical art of #thing#.
+#item.capitalize# worn by the #creature.s# who raid #place# and attack #group#.
+In addition to protecting against the blazing #thing#, #thing#, and #thing#, it helps them tell friend from foe in the heat of battle.
+The addition of #thing# over a base of #thing# and #thing# offers good mobility and defense.
+#color.capitalize# #thing# #item# worn by #creature.s# from #place#.
+Designed so as not to hinder their unique form of martial arts.
+While it sacrifices #thing# for the sake of greater mobility, it does offer resistance to #thing# and #thing# among other things, perhaps due to the nature of their duties.
+#color.capitalize# #thing# garb worn by #creature.s# from #place#.
+While it sacrifices #thing# for the sake of greater mobility, it does offer resistance to #thing# and #thing# among other things, perhaps due to the nature of espionage.
+#color.capitalize# #thing# #item.s# worn by #creature.s# from #place#. 
+#color.capitalize# #thing# leggings worn by #creature.s# from #place#. 
+Built of a special #color# iron and providing strong defense, notably against #thing#, but so terribly heavy to be unwieldy to all but #person# himself.
+#item.capitalize# of #person#, #creature.a# known for their great strength.
+#item.capitalize# of #person#, protector of #place#.
+It offers extremely high #thing# and can be worn by #creature.s#, but not without great difficulty.
+Helm of the #group#, #creature.s# that serve #person#.
+The six #item.s# arranged in two vertical columns compensate for #person#'s lack of sight.
+The heaviest of protective gear for #creature.s#, and imbued with #thing#.
+#item.capitalize# of the #group#, #creature.s# that serve #person#.
+Even after the onset of #person#'s madness, the "#group#," as they were often called, ventured to far lands to find suitable #creature# specimens.
+#item.capitalize# of #person#, representing #person#'s love.
+During their solitude, they forsook everything, for they believed in #person#'s love for him.
+#person.capitalize#'s arms wrap around it, as if to embrace the wearer.
+A strange #item# from #place#, birthplace of the curious #person#.
+The two horns are believed to symbolize #thing#.
+Strange #item# from #place#, birthplace of the curious #person#.
+The many medals are believed to symbolize #thing#.
+The #color# bracelets symbolize #creature.a#.
+The inlaid #color# rings symbolize #creature.a#.
+Moss-covered #item# of the #creature#, defender of the #place#.
+The #creature# is a product of ancient magic, and although this #item# is also imbued with #thing#, it is incredibly heavy.
+#item.capitalize# worn by #creature.a#, who was partially crystallized.
+The #item# provides powerful #thing#, but it cannot be used for long because it is easily broken and cannot be repaired.
+#item.capitalize# of the #creature.s# who flooded #place# to seal away the #group#, and the #group# who descended into #thing.capitalize#.
+It symbolizes their resolve to keep the seal shut forever and their atonement for all who were sacrificed, but two of the three forsook #place# upon tiring of their duty.
+The #group# were once known as #group#, and the bright #color# was a symbol of that.
+#item.capitalize# worn by #group# serving #person#.
+The #group# listen to the confessions of #group#, urging reflection and salvation.
+Their #item.s# symbolize separation from worldly desires.
+The #group#'s attire is uniformly #color# in color and said to be imbued with #person#'s mystical power, which provides resistance against all manner of #thing#.
+Of high quality, but lacking any particular powers.
+#person.capitalize#'s incredible prowess must have come from rigorous training alone, for their equipment exhibits no special traits.
+The large #thing# symbol of the #thing.capitalize#, while powerless, was painted by #person# himself. 
+Of high quality, but lacking any particular powers.
+A chainmail #item# of thin interlinking rings of #thing#.
+It is common throughout #place# since it can be easily produced, is not too heavy, and offers good defense.
+#creature.s.capitalize# may favor flashy armor, but for warriors on the battlefield, anything is fine as long as it keeps them alive.
+One of the more common kinds of protective gear.
+#item.capitalize# worn by the #group#, who are famous for being unyielding in battle.
+It is rather substantial in size and weight, making its wearer look even bigger than they actually are.
+It is completely immobile, yet still lives.
+When worn on the head, it emanates blinding #thing#, which is why it is known as #thing.a.capitalize# #creature.capitalize#.
+#item.capitalize# of #person# and notorious member of the #group#. A dense patch of thorns grows from its surface.
+It is a fitting item for the murderous #person#, for by simply wearing it and rolling, one can damage #creature.s#.
+A dense patch of thorns grows from its surface.
+A sturdy helm made of #thing#.
+Very common type of protective gear, it provides a sound level of #thing#.
+It is wise to wear a sturdy form of head protection against #item.s# and other physical threats.
+#item.capitalize# made of thick #thing#.
+Very common type of protective gear, it provides a sound level of #thing#.
+#item.capitalize# worn by proper #creature.s# who studied at #place#.
+The majority take pride in having studied at #place# and look down on breaking the formal dress code established for #creature.s#.
+#item.capitalize# worn by #creature.s# of #place#.
+Though it appears tattered, it is actually quite strong.
+Their attire offers substantial protection against #thing#, #thing#, and other forces of nature out in #place# where they were driven.
+The #item.s# of the #creature.s# are incredibly tough, on account of the rugged grasslands and treacherous swamps they must traverse.
+Their soles are nearly impenetrable.
+Broad-brimmed #item# favored by #person#.
+#person.capitalize# was an accomplished #creature#, and though they were #creature#, they ranked alongside #place#, one of the #group# of #person#.
+His #item# is universally popular among #group#.
+#item.capitalize# made of soft #thing#.
+Very common type of protective gear.
+#item.capitalize# worn by the #color#-clothed guardians of the paintings in #place#.
+Offers substantial protection versus #thing#.
+They have guarded the Great Paintings of #person# for ages, passing their duty down through the generations, but the reason for doing so passed from all memory long ago.
+#item.capitalize# of #person#, who guards #place#.
+#person.capitalize# is believed to be the captain of the #group#.
+His #color# #creature# #item# is imbued with the power of #thing# and should provide good protection against it.
+A distinctive #item# made in #place#.
+Exquisitely crafted, this #item# offers excellent #thing#, particularly versus #thing# attacks, which are one of the main threats in battles in #place#.
+Distinctive #item# made in #place#.
+The #item# bears high-quality #thing# which is quite soft to the touch, but its bright #color# color stings the eyes, and it is clearly far too big.
+A mysterious #item# once worn by #person#, the legendary exile. 
+No one knows where it came from.
+It may be tattered, but its bright #color# color still stings the eyes.
+#item.capitalize# of #group#. They hide their faces, stifle their voices and hide in #place#.
+It does not provide much in the way of #thing#.
+This armor made of smooth #color# #thing# is extremely quiet, a good thing for those who hide in #place#.
+The #thing# itself is thick, offering a decent level of protection.
+Distinctive #item# worn only by Way of #color.capitalize# priests in #place#.
+It is simply meant to show their position within the #group#.
+It holds almost no meaning in the land of #place#.
+#item.capitalize# donned by #group# of the #thing#.
+Though plain to the eye, its hardy #thing# repels #thing# and keeps the body warm.
+Those dissatisfied with church teachings must test their #thing# by going on a spiritual journey.
+Such is the ritual self-purification of the #group#.
+Thick, sturdy #item.s# made for group on extended journeys.
+#item.capitalize.s# donned by #group# of the #thing#.
+Though plain to the eye, their hardy fabric repels #thing# and keeps the body warm.
+#item.capitalize# of the #group# who haunt #place#.
+The #creature.s# followed #person# when they departed to link the #thing.capitalize# but they were burned to ashes in the newly kindled flame, wandering the world as disembodied #creature.s# ever after.
+Special #thing# #item# bestowed upon #person#, upon their birth.
+Its wearer is blessed by all manner of #thing#.
+This raises the #thing# and effect of the wearer's #thing#, but damage suffered by #thing# attacks also rises.
+A #item# from #place#.
+Its #color#-colored #thing# features elaborate embroidery and is imbued with ancient #thing# power.
+One cannot expect any #thing# protection from this #item#, as it was not meant to be worn in battle.
+Almost all #thing# users that employ #item.a# studied at #place#, but #person# is one of the few exceptions.
+She braved #place# but did not live to tell of their ordeal.
+Almost all #thing# users that employ #item.s# studied at #place#, but #person# is one of the few exceptions.
+#item.capitalize# of #person#, perhaps an elite knight of #place#.
+Although they were loath to give up on their Undead mission, they perished at #place#, and went Hollow.
+#item.capitalize# of #person#, perhaps an elite knight of #place#, based on the #thing#-warding heraldic symbol on its #color# surcoat.
+Made from sturdy #thing#, it offers protection versus #thing# and #thing#.
+Made from sturdy #thing# and #thing#.
+Battle comes with the territory when one wanders #place#, and this #item# provides a certain degree of protection.
+Made from sturdy #thing# and protects the hands.
+Made from sturdy #thing#.
+A must-have for long journeys.
+#item.capitalize# worn by proper #group# who studied at #place#.
+#group.capitalize# learn their craft alongside #group#, but apply their #thing# to forging #item.s# with #thing# embers.
+Gigantic #item# worn by #person#.
+It completely hid their face, which led to their nickname "Big #item.capitalize#."
+Famously antisocial, #person# used it to block out noise and people's stares so he could focus on his own thoughts, but it does not possess any special #thing# powers.
+#item.capitalize# worn by #person#.
+It is said to have been from their apprentice days at #place#, but it is so worn out, no one knows what it originally looked like.
+#person.capitalize#, who cared little for their appearance, no doubt ever bothered to change out of it.
+They are indistinguishable from the ordinary kind worn by travelers.
+#item.capitalize# of a lower-rank #creature#.
+Despite the thin metal used, the grooved texture gives it added protection.
+Worn by the #creature# at #place#.
+It is thought to have once been the #color# #item# of #creature.a#, but #thing# and ashes from bonfires have darkened it over the years.
+It is thought to have once been the #color# #item# of #creature.a#, but its true origin is lost in patches of #thing#.
+Perhaps its former wearer was maimed to prevent escape?
+#color.capitalize# #item# worn by traveling #creature.s#.
+It is part of their formal attire, regardless of rank.
+It is soft and well-made, but does not offer much in the way of #thing#, making it ill-suited to use in battle.
+While soft and well-made, they do not offer much in the way of #thing#, making them ill-suited to use in battle.
+#item.capitalize# of the #group# who protect #place#.
+When #person# departed to link the #thing.capitalize#, his #creature.s# split into two groups.
+The #group# remained in #place# in the service of their #person#.
+#item.capitalize# of the #group# who protect #place#.
+#item.capitalize# worn by #person#'s #group#.
+Carved from solid #thing#, its tremendous weight is matched only by the #thing# it provides.
+#person.capitalize#'s warriors never flinched nor retreated from battle. Those unfortunate enough to face them were inevitably beaten to a pulp.
+After becoming Undead, they visited #person# at #place#, became #item.a.capitalize# of the #thing.capitalize#, and assumed the #thing#-keeping duty.
+They received this #item#, which hides their hideous form and helps them hunt the #group#.
+Worn by #person#, mother of #thing# and Daughter of #thing.capitalize#.
+They wore this #color#-hemmed #color# hood before even the Age of #thing.capitalize#, and it offers strong resistance versus #thing#, #thing#, and other perils.
+Head of #person#, guardian of the ancient Sen's Fortress, slayer of #creature.s# who ventured forth to #place#.
+Without its core, it is a mere hunk of #thing#, and can be equipped as solid protective gear, but its immense weight hinders #thing# recovery.
+It may be old and battered, but its #thing# construction makes it quite sturdy.
+#item.capitalize# of the #group#, known for their heavy #item.s# and #item#.
+Countless #group#, once extolled as the mightiest of mighty, became Undead and ventured to #place#.
+But their journey was for naught, as they went Hollow, and became a threat to all #group#.
+#item.capitalize# worn by #group#.
+Used to hide a guilty countenance.
+#thing.capitalize# #item# worn by #group#.
+It stifles noise and helps its wearer hide in #place#. 
+#item.capitalize# worn by the #creature# of #place#.
+It is made from thick #thing# plates.
+#place.capitalize# was the homeland of #person#, but it came to ruin after a great many #group# were spawned.
+#item.capitalize# worn by #creature.s#.
+Although it is made of #thing#, it is old, battered and worn out.
+It is wise to wear a sturdy form of head protection against #item.s# and other physical threats.
+#item.capitalize# worn by #creature.s#.
+It is made of thick #thing# that is tattered with age.
+It is so tattered that it barely serves its purpose anymore.
+#item.capitalize# of the giant #creature.s# of #place#.
+Made from ancient #thing#, it also offers protection versus non-#thing# attacks, but due to its giant size, it is extremely heavy for #creature.s#, and impedes #thing# recovery.
+#item.capitalize# of #person#, protector of #place#.
+This #item# of the gods demands #thing# immeasurable of its wearer, but it is imbued with #thing# power that enhances all #thing#.
+The image of the #thing# manifests #person#'s deep adoration of the sun.
+Robe of #person#, protector of the forsaken city of #place#.
+Their #thing# #item# is silk-thin, and hardly provides any physical defense.
+#item.capitalize# of #person#, who linked the First #thing.capitalize#.
+#person.capitalize#, bearer of the ultimate soul, divided his #thing# among their #group# before linking the #thing#.
+But he did keep his #item#, perhaps to preserve a symbol of the monarch, for its actual #thing# had fully subsided.
+#person.capitalize#, bearer of the ultimate #thing#, divided that #thing# among their clan before linking the #thing#.
+When they departed, they left only with their #item#, his #item#, and the #item#, now bereft of power.
+Bloodstained patchwork #item# by the #creature# lurking in #place#.
+Two eyeholes have been haphazardly cut out.
+It is unexpectedly soft and comfortable to wear, but it is probably near meaningless in terms of defense.
+#creature.capitalize# head resembling #item.a#.
+Once #creature.a#, it is said this is the symbol of #thing# imposed on #group#, exiled for the sin of #thing#.
+Wearing this slightly raises #thing# absorption and #item# discovery, but also affects its wearer with the curse of the branded.
+Partially made of #thing#, and confers high resistance overall.
+The #item# is believed to belong to an ancient royal line, but only #person# would know for sure, and they shall never speak again.
+One of the three #item.s# of #person#, the #creature# who stole the power of #people#, and reigns over #place#.
+This #item#, belonging to #person#, slightly raises #item# load.
+This #item#, belonging to #person#, slightly raises #thing#.
+This #item#, belonging to #person#, slightly raises #thing# recovery speed.
+Severed head of the fully-armored #creature# taken by #person# who killed it as proof of their victory, just as #group# once did with the head of #creature.s#.
+Can be worn on the head as a surprisingly sound piece of protective gear.
+Helm of the #creature#, an enchanted creature that guarded the #item.capitalize# of Awakening in #place#.
+This #thing# #item# was for mere appearance's sake, as #creature# skin is naturally hard.
+Little in the way of #thing# can be expected from it.
+#item.capitalize# worn by the secret #creature.s# at #place#.
+They secretly work with #thing#-based #item.s#, and never reveal themselves.
+Among such #item.s#, those that were #color# belonged to #group# sent on missions, many of whom were high-level #creature.s#.
+Transform the head into that of #creature.a# with a secret rite of #group#.
+Use #creature.capitalize# Head Stone in this state to spew #creature# breath.
+#group.capitalize# seek transcendence of #thing# itself, attainable by transformation into an ancient #creature#
+Use #creature.capitalize# Torso Stone in this state to let out a great #creature# roar.
+Transform arms into those of #creature.a# with a secret rite of #group#.
+Use #creature.capitalize# Torso Stone in this state to create #creature# roar and wield #item.s# from the hands.
+An #item# implanted on the head by a type of #creature# bearing #item.s# on its back.
+The nightmare begins with a slight itch on the head, and soon the #creature# will be siphoning the #item.s# of slain #creature.s#.
+Unless you find this amusing, quickly use Egg #item.capitalize# to purge it.
+This #item# was named after #person#, #person#'s old battlefield compatriot.
+#person.capitalize#'s men wore the #item# to express faith in their leader and to carry a heavier load.
+The rare #item# called #item# has the uncanny ability to sense imminent #thing#.
+This #color# #item# from #place# boosts the attack of its wearer when in danger.
+#item.capitalize# granted to those bound by the #thing.capitalize# #item.capitalize# covenant.
+Answer #person#'s summoning.
+#person.capitalize#, all too aware of their repulsive, frail appearance, created the illusion of #person#, who helps them guard over #place#.
+An unmasking of these #creature.s# would be tantamount to blasphemy.
+#item.capitalize# granted to those bound by #place.capitalize# #creature.capitalize# covenant.
+The #color# #creature# #person# speaks #creature.a# tongue and has lived since the early Age of #thing.capitalize#.
+#person.capitalize# was a trusted friend of #person# and #person#.
+This ancient #item#, engraved with a large #color# #item#, is of unknown origin.
+Hastens the regeneration of #thing#.
+#item.capitalize.s#, the symbol of a true #creature#, grant the #thing# to face various hardships.
+The #color# #item# symbolizes #thing#, and boosts defense against #thing#.
+The precious rare #color# #thing# grants a small boost to defense against #thing#, #thing#, and #thing#.
+One of the infamous bite #item.s# commissioned by #person#.
+Despite the dreadful rumors surrounding its creation, this #item# is an unmistakable asset, in its ability to help prevent #thing#.
+#item.capitalize# made of an ancient tiny #color# #item#.
+Grants small increase to #thing#.
+#item.capitalize.s# grant powers large and small.
+Their discovery, and effective use, can make one's journey easier.
+A #thing# #item# entrusted to the head #creature# of the #group# and apostle to #person#.
+It grants additional attunement slots.
+The head #creature# of the #group# is the guardian of law and caste, and one of the great #creature.s# of #place#.
+A special #item# granted to only the most accomplished #creature.s# at #place#.
+The #item# is engraved with an everlasting #creature#, and boosts the strength of #item.s#.
+This magic #item#-shaped #item# was granted to #person# upon their birth.
+The #item# allows its wearer to cast additional sorceries, but at the cost of one-half of #thing#.
+One of the special #item# granted to the #group#.
+The #creature.capitalize# #item.capitalize# belonged to #person#.
+By boosting critical attacks, its wearer can annihilate #creature.s#, as #person#'s #item# laid waste to #person#'s enemies.
+One of the special #item.s# granted to the four #creature.s# of #person#.
+The #creature.capitalize# #item.capitalize# belonged to #person#, who led the #group#.
+Boosts #item# range, so that #item.s# fly like they were shot by #person#'s great bow, which took down high-flying #creature.s#.
+This #item# belonged to #person#.
+It grants its wearer protection by boosting defense against #thing# attacks.
+Of the many legends surrounding #person#, one of the more well-known speaks of his standing down a giant #creature# and slashing it to pieces.
+The #creature# is an imperfect #creature# and symbol of the #group#.
+Its habit of devouring prey even larger than itself has led to an association with #thing#.
+This #color# #item#, engraved with the #creature#, boosts its wearer's item discovery, so that more #item.s# can be amassed.
+This #color# ring, engraved with the #creature#, rewards its wearer with additional #item.s# for each kill.
+This #item# was secretly worn by #person# at #place#.
+The #item# is engraved with an everlasting #creature# in silent slumber, and masks all #thing# emitting from its wearer.
+Those who befriend #person# are given this mysterious #item#.
+It resembles #item.a# with its robust pure-#color# fog.
+The #item# camouflages its wearer's presence, helping to prevent detection.
+This #thing# #item# was used to shackle the #group#.
+It is terribly rusted, and faintly stained with #thing#.
+Those who find this strange #item# to their liking will be pleased to find it easier to gain footing on poor ground such as #place#.
+This mystical #item# was created in a sacrificial rite of #person#.
+Its wearer will lose nothing upon death, but the #item# itself breaks.
+The #color#-shaded #item# is especially rare.
+Its wearer will lose nothing upon death, and will be freed from any #thing# whatsoever, but the #item# itself breaks.
+This special #item# crafted in #place# is made of #thing#, but with #thing.a# grain crest on its surface.
+#group.capitalize# in #place# are particularly fond of the dark #color# wood grain, which greatly alters its wearer's rolling action.
+This #item# is granted to those who enter a Covenant with #person#.
+This slightly warm #item# boosts the synergy of #item.s#.
+#person.capitalize# left #place# along with many other #creature.s#, and later became married to #person#.
+This #color# #thing# #item# is granted to those who enter a Covenant with #person#.
+It automatically counterattacks when its wearer inflicts sustained #thing#.
+#person.capitalize# is an eccentric #creature# versed in various secret rites.
+This #item# belonged to #person#.
+It prevents its wearer's discovery by cursed #creature.s#.
+There were once three #group#, but two of them tired of their eternal task, and left #place# long ago.
+Old #item# from an old #creature#.
+Engraved minutely with indecipherable script, but seemingly useless.
+This ring symbolizes #person#'s covenant with the #creature.s# of #place#.
+Its wearer, like #person# himself, can traverse #place#.
+An #color# ring enchanted by #creature.a#.
+Reduces #thing# damage.
+Since their sores were inflamed by #thing# from birth, their #creature# sisters gave them this special #item#.
+But fool that they are, they readily dropped it, and from that spot, a terrible #creature# was born.
+The #item# of a lost #item# of #place#.
+This #item# takes damage in place of its wearer, but has a fixed chance of breaking.
+As evidenced by this #item#, the culture of #place# was unique, and its flooding is widely considered to be a great loss.
+The #item# is engraved with a lingering #creature#, and boosts the length of the effects of sorceries.
+According to legend, this #item# contains the spirit of the evil #creature#, a dark beast which assaulted #place#.
+The strength of the evil #item# does not waver, and #thing# is absorbed from fallen #creature.s#.
+A #item# symbolizing the favor and protection of #person#, known in legend to possess "fateful #thing#."
+This #item# boosts its wearer's #thing#, #thing#, and max #item# load, but breaks if ever removed.
+One of the special #item.s# granted to the #group#.
+The Leo #item.capitalize# belonged to #person#.
+This #item# strengthens counters with pierce #item.s#.
+His lugged spear is said to have sliced a boulder in two.
+The ring slows the loss of weapon durability and is particularly useful to bearers of delicate swords crafted in the East.
+One of the special rings granted to the four knights of Gwyn. The Wolf Ring belongs to Artorias the Abysswalker.
+Artorias had an unbendable will of steel, and was unmatched with a greatsword.
+This blue tearstone from Catarina boosts the defence of its wearer when in danger.
+Lord Gwyn's firstborn, who inherited the sunlight, once wore this ancient ring.
+Boosts the strength of miracles.
+Lord Gwyn's firstborn was a god of war, but his foolishness led to a loss of the annals, and rescinding of his deific status.
+Today, even his name is not known.
+This ring is granted to adherents of Gwyndolin, Darkmoon deity and last born of Gwyn, Lord of Sunlight.
+Grants additional magic attunement slots.
+#person.capitalize# is the only remaining deity in #place#. 
+Their followers are few, but their tasks are of vital importance.
+#person.capitalize#, the most accomplished pupil of #person#, pioneered new directions for the art of #thing#.
+Advanced #item# of #person#.
+Elementary #thing# cast by #group#.
+Restores #thing#.
+To cast #item.a#, the caster learns a tale of the #group#, and says a prayer to be blessed by its revelations.
+Great #item# cast by advanced #group#.
