@@ -47,8 +47,8 @@ Death triggers the #item#, which returns its bearer to #place#, but at the cost 
 The #group# treasure these dull #color# flasks.
 Fill with #thing# at bonfire. Fills HP.
 The #thing.capitalize# #item.s# are linked to the #group#. The Dark #thing.capitalize# also make reference.
-A #color# flask, from #person#'s soul.
-#person# lives to protect #thing#, and dies to protect it further.
+#color.a.capitalize# flask, from #person#'s soul.
+#person.capitalize# lives to protect #thing#, and dies to protect it further.
 The #group# treasure these dull #color# #item.s#.
 Fill with #thing# at #place#.
 The #item.capitalize.s# are linked to the #group#.
@@ -99,7 +99,7 @@ Many #group# use these to augment their strategic repertoire.
 Atrocious fecal waste material.
 Throw at #creature# to build up #thing#, but also builds up your toxicity.
 Although the #thing# makes it difficult to carry on one's #item#, turning an enemy toxic inflicts #thing# over a period of time.
-A #item# with meekly lingering #item.s#.
+#item.a.capitalize# with meekly lingering #item.s#.
 Throw to shatter and spread #thing# to attract certain types of #creature.s#.
 #item.capitalize# are a concentration of #thing#, and the life-starved #creature.s# are lured by its power.
 Not effective for all #creature.s#.
@@ -136,17 +136,17 @@ Rare tiny #color# sprite found on #creature.s#.
 Use to gain 1 #thing#.
 This #color# sprite is called #thing#, but little is known about its true nature.
 If #place# is the source of all life, then what distinction is left for #thing#?
-#item.capitalize# emitting a beautiful phasing aura of seven colors, with a very rare #thing#.
+#item.capitalize# emitting a beautiful phasing aura of seven colors, with a very rare eighth.
 The #color# stone does nothing special, but can serve as #item.a#, and can be dropped off a cliff to judge height by the sound of its #thing#.
 If a loud noise is heard upon its landing, then a fall off #place# is surely lethal.
 #item.capitalize# made of brass.
 Use to peer at distant #place#.
-This advanced #item# was built by a famous #group# of #place#.
+This advanced #item# was built by a famous #creature# of #place#.
 Its utility is singular, but its applications many.
 The value of these #item.s# depends greatly on the imagination of #person#.
 Slip sold by #group# of #person#.
 Annul #item.a# without committing #thing#.
-A #item# is a most sacred union, normally not subject to negotiation, but when circumstances require it, even #person# will make an exception.
+#item.a.capitalize# is a most sacred union, normally not subject to negotiation, but when circumstances require it, even #person# will make an exception.
 Slip sold by #group# of #person#.
 If you are killed by #creature.a#, use this to report the crime of that trespasser.
 The #creature# will be added to a list of unfortunate souls who will one day face the wrath of the #group#.
@@ -183,7 +183,7 @@ She clutched this #item# tightly, and eventually was drawn into #place#.
 Shriveled but still slightly warm.
 With this many knuckles, surely it cannot belong to #group#.
 Soul of #person#, Fire Keeper of #place#.
-A #creature#'s soul is a draw for #thing#, and held within their bosoms.
+#creature.a.capitalize#'s soul is a draw for #thing#, and held within their bosoms.
 Below just a thin layer of #thing#, are swarms of #thing# that writhe and squirm.
 Was the #color# Maiden locked in #place# for some transgression, or by her own will?
 Soul of #person#.
@@ -326,7 +326,7 @@ Reinforces divine #item.s# to +10, and occult #item.s# to +5.
 Reinforces fire #item.s# to +10, and chaos #item.s# to +5.
 Dragon #item# for reinforcing dragon #item.s#.
 Peeled from an ancient #creature#.
-A #creature# is inseparable from its #item.s#, and the #group#, who seek the perpetuity of the #creature#, have crossed the very end of #place# to seek this invaluable #item#. 
+#creature.a.capitalize# is inseparable from its #item.s#, and the #group#, who seek the perpetuity of the #creature#, have crossed the very end of #place# to seek this invaluable #item#. 
 Special #item# stolen from #creature.a# known as #thing.a.capitalize# #creature.capitalize#.
 When #person# passed, from several #item.capitalize.s#, great #creature.s# arose.
 The power of #thing# remains within them, and they still roam #place# today.
@@ -418,7 +418,7 @@ Although just a piece, it will still satiate the #item#.
 #item.capitalize# bestowed upon the chosen #creature# who is destined to succeed #person#.
 #person.capitalize# is granted the art of warping between bonfires.
 To open the final door, place this #item# on the #thing.capitalize# Altar, and fill it with powerful #item.s#.
-#Item# used to etch titanite into #item.s# for reinforcement.
+#item.capitalize# used to etch titanite into #item.s# for reinforcement.
 Rest at #place# to make #item# reinforcement possible.
 Tool used to etch #thing# into armor for reinforcement.
 Rest at #place# to make armor reinforcement possible.
@@ -434,7 +434,7 @@ Some deride it as a symbol of unbridled #thing#.
 Any number of items can be deposited into the #item#, and items can be managed while resting at #place#.
 Elementary #item#.
 #thing.capitalize# soul #item#.
-#item.s# inflict #thing# damage, making them effective against #thing# armor, tough #item.s#, and other physically resilient #item.s#.
+#item.s.capitalize# inflict #thing# damage, making them effective against #thing# armor, tough #item.s#, and other physically resilient #item.s#.
 Sorcery which improves upon Soul #item.capitalize#.
 Fire strong #item#.
 At #place#, the acquisition of this #item# marks an apprentice's coronation as #creature.a#.
@@ -467,7 +467,7 @@ High #thing# augmentation: right #item#.
 At #place#, only #group# on special orders are allowed to learn this spell which grants powerful augmentation to various #item.s#.
 High #thing# + crystallization: right #item#.
 #person.capitalize#'s trials were successful, and the #thing# medium facilitated a stronger bond between weapon and #thing#.
-#Spell# for #group# who wield #item.s#.
+#item.capitalize# for #group# who wield #item.s#.
 #thing.capitalize# augmentation: left #item#.
 #item.capitalize.s# augmented by #thing# are resistant to #thing# attacks and have higher stability.
 This #item# makes it possible to challenge #group# with a small shield.
@@ -547,7 +547,7 @@ Why was #person# driven from #place#?
 One only need cast this #item#, a perverse diversion from the art of #thing#, to find out.
 #item.capitalize# foreign to #place#.
 Emit #thing# which corrodes #item.s# and #item.s#.
-#Spell# of #person#, who harnessed the power of #thing# to actualize the inner-self.
+#item.capitalize# of #person#, who harnessed the power of #thing# to actualize the inner-self.
 #thing.capitalize# flesh boosts #thing# and #thing#.
 Use of this #item# requires caution, as the #creature# becomes exceedingly heavy and unable to move freely.
 Intense sweating reduces #thing# damage.
@@ -708,7 +708,7 @@ One of the gigantic straight #item.s#.
 As the name suggests, the #item# is held with two hands, but its #creature# must still be inhumanly strong.
 It is this great #thing# that sends #creature.s# flying when hit solidly.
 Very few have what it takes to wield this incredibly heavy, #thing#-dealing #item#.
-A favorite of the #group#, known for their heavy #item#, and #person#.
+A favorite of the #group#, known for their heavy #item.s#, and #person#.
 The lesser #creature.s# use these #item.s# in pairs.
 The #item# is cast #thing# and hooked.
 The #item# is imbued with no particular #thing#, but for those who have the #thing#, its great #thing# will smash foes mercilessly.
@@ -761,7 +761,7 @@ Can pierce an armored #creature# in one thrust.
 The #item# is also sharp, allowing slicing as well.
 A symbolic, powerful thrusting #item# used by #person# serving #person#.
 It is no mere #item# to be sure; #person# is an inhuman swordsman, and wields this enchanted #item# with special #item# technique.
-A #item# with intricate decorations.
+#item.a.capitalize# with intricate decorations.
 Chosen #item# of the infamous #person#.
 #person.capitalize#'s exploits are told in a monomyth.
 He was born into royalty, but wandered #place# in a fateful ill-conceived journey.
@@ -778,7 +778,7 @@ The Crescent #item.capitalize# is bequeathed to #group# who have proven their #t
 Giant #item# wielded by the #creature# lurking in #place#.
 More #item.a# for subduing and preparing live catches than an actual #item#.
 Those who have faced this deadly #item# have a deeper sense of how helpless prey must feel.
-An #item# born from the soul of #peron#, guardian of #place# who repelled countless heroes who sought #place#.
+An #item# born from the soul of #person#, guardian of #place# who repelled countless heroes who sought #place#.
 Its powerful one-handed attack imitates #person#'s blade of #thing#, but the heavy #thing# #item# makes it quite unwieldy.
 Sliced tail of the #creature# guarding the #item.capitalize# of Awakening in #place# or patrolling in #place#.
 Can be used as #thing.a# battle #item#.
@@ -809,7 +809,7 @@ Originally #item.a#; redesigned for battle.
 This simple but deadly #item# hits heavily with thrust damage, such that it easily cracks #thing# armor.
 Traditionally a mining #item#, but the hard cone on the pommel is effective in battle.
 A downward swing of the #item# can crush stone; #creature.a# head would be an afterthought.
-A #item# with leather nailed to the pommel.
+#item.a.capitalize# with leather nailed to the pommel.
 #person.capitalize# proudly peddles this #item#, but its reinforcement is shoddy.
 Indeed, its attack is stronger, but the #item# is no longer dependably sturdy.
 #thing.capitalize# #item# of #person#, blacksmith at #place#.
@@ -836,14 +836,14 @@ Bare #item.s#.
 The #item# augments one's bare hands with thick, studded #thing#.
 The #item# has a short reach, but quick cool down.
 Amount of #thing# inflicted is dependent on its wearer's #thing#.
-A #item# formed by three sharp #item.s#.
+#item.a.capitalize# formed by three sharp #item.s#.
 Attacks cause #thing#, and the wounds inflicted are not easily mended.
 Preferred #item# of the #creature.s# of #place#.
-A #item# from the soul of #person#, guardian of #place# who repelled countless #creature.s# who sought #place#.
+#item.a.capitalize# from the soul of #person#, guardian of #place# who repelled countless #creature.s# who sought #place#.
 The #group# fused the power of the #thing# with the great #item.s# of the #creature.s#, forming an appropriate core for #person#.
 The #group#, incited by #person#, use the power of the #thing# soul to absorb #thing#, an art shared by this #item#, which also acts as a special #item#.
 The #group#, particularly, could sap the #thing# of even a replete #creature# in the blink of an eye.
-Standard #item# used commonly by #soldier#s.
+Standard #item# used commonly by #creature.s#.
 Long reach, and can be used with #item# up.
 Effective against hard exteriors, and can hit for high #thing# at the right moment of #creature.a#'s swing.
 But the hit radius is small, and it is easily blocked by #item.s#.
@@ -950,7 +950,7 @@ Before the birth of #item#, their #item.s# were mediums for #item#, but knowledg
 Equip #creature# #thing# to produce #item#.
 Attune #item.s# from #item.a# at #place#.
 Most #item.s# have limited no. of uses.
-#Spell# flame drawing upon the latent power of #person#, mother of pyromancy.
+#item.capitalize# flame drawing upon the latent power of #person#, mother of pyromancy.
 For the #creature#, #thing.a# is a precious thing indeed, to be nurtured, often for an entire lifetime.
 When the #thing# is shared, it creates an eternal bond between the parties.
 Medium for casting #item.s# of the #group#.
@@ -1051,7 +1051,7 @@ Lightest and easiest #item# to handle.
 #item.capitalize.s# are very stable, and deflect attacks.
 But one cannot parry, and instead bashes with the #item#.
 Metal #item#.
-Used by #person#, known for their heavy #item#.
+Used by #person#, known for their heavy #item.s#.
 This thick plate of #thing# is heavily defensive but ultra heavy.
 #item.capitalize.s# are very stable, and deflect attacks.
 However, one cannot parry, and instead bashes with the #item#.
@@ -1222,7 +1222,7 @@ The #creature.s# followed #person# when they departed to link the #thing.capital
 Special #thing# #item# bestowed upon #person#, upon their birth.
 Its wearer is blessed by all manner of #thing#.
 This raises the #thing# and effect of the wearer's #thing#, but damage suffered by #thing# attacks also rises.
-A #item# from #place#.
+#item.a.capitalize# from #place#.
 Its #color#-colored #thing# features elaborate embroidery and is imbued with ancient #thing# power.
 One cannot expect any #thing# protection from this #item#, as it was not meant to be worn in battle.
 Almost all #thing# users that employ #item.a# studied at #place#, but #person# is one of the few exceptions.
@@ -1349,7 +1349,7 @@ Despite the dreadful rumors surrounding its creation, this #item# is an unmistak
 Grants small increase to #thing#.
 #item.capitalize.s# grant powers large and small.
 Their discovery, and effective use, can make one's journey easier.
-A #thing# #item# entrusted to the head #creature# of the #group# and apostle to #person#.
+#thing.a.capitalize# #item# entrusted to the head #creature# of the #group# and apostle to #person#.
 It grants additional attunement slots.
 The head #creature# of the #group# is the guardian of law and caste, and one of the great #creature.s# of #place#.
 A special #item# granted to only the most accomplished #creature.s# at #place#.
@@ -1406,7 +1406,7 @@ As evidenced by this #item#, the culture of #place# was unique, and its flooding
 The #item# is engraved with a lingering #creature#, and boosts the length of the effects of sorceries.
 According to legend, this #item# contains the spirit of the evil #creature#, a dark beast which assaulted #place#.
 The strength of the evil #item# does not waver, and #thing# is absorbed from fallen #creature.s#.
-A #item# symbolizing the favor and protection of #person#, known in legend to possess "fateful #thing#."
+#item.a.capitalize# symbolizing the favor and protection of #person#, known in legend to possess "fateful #thing#."
 This #item# boosts its wearer's #thing#, #thing#, and max #item# load, but breaks if ever removed.
 One of the special #item.s# granted to the #group#.
 The Leo #item.capitalize# belonged to #person#.

@@ -27,7 +27,6 @@ the Warrior of Sunlight
 Lord Gwyn
 the old God of War
 Old Man McLoyf
-Knight King Rendal
 the Ash Maiden
 Fire Keeper of Firelink Shrine
 the Darkmoon Knightess
@@ -62,7 +61,7 @@ this eerily gleeful executioner
 Priscilla the Crossbreed
 Darkmoon Gwyndolin
 the sorcerer
-a living blacksmith 
+a living blacksmith
 blacksmiths knowledgeable in ancient methods
 a nameless blacksmith deity
 the nameless blacksmith deity
@@ -70,7 +69,7 @@ the Capra Demon
 Sir Artorias the Abysswalker
 Seath
 the Gaping Dragon
-A mysterious knight
+a mysterious knight
 Gravelord Nito
 the Bed of Chaos
 the Witch of Izalith

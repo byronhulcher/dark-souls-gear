@@ -28,7 +28,7 @@ demon
 ancient dragon
 faceless stone beast
 beast
-the wild dog
+wild dog
 local bandit
 hapless adventurer
 victim
@@ -52,7 +52,7 @@ wielder
 drake
 creature
 Capra demon
-painting guards
+painting guard
 guardian
 opponent
 swordsman
