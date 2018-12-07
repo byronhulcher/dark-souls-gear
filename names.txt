@@ -1,0 +1,458 @@
+Dagger
+Parrying Dagger
+Bandit's Knife
+Ghost Blade
+Dark Silver Tracer
+Priscilla's Dagger
+Shortsword
+Longsword
+Broadsword
+Balder Side Sword
+Sunlight Straight Sword
+Darksword
+Barbed Straight Sword
+Crystal Straight Sword
+Silver Knight Straight Sword
+Astora's Straight Sword
+Drake Sword
+Broken Straight Sword
+Straight Sword Hilt
+Bastard Sword
+Claymore
+Man-serpent Greatsword
+Flamberge
+Crystal Greatsword
+Black Knight Sword
+Stone Greatsword
+Greatsword of Artorias
+Greatsword of Artorias (Cursed)
+Abyss Greatsword
+Great Lord Greatsword
+Moonlight Greatsword
+Greatsword
+Zweihander
+Demon Great Machete
+Black Knight Greatsword
+Dragon Greatsword
+Scimitar
+Falchion
+Shotel
+Painting Guardian Sword
+Jagged Ghost Blade
+Gold Tracer
+Quelaag's Furysword
+Murakumo
+Server
+Gravelord Sword
+Uchigatana
+Iaito
+Washing Pole
+Chaos Blade
+Mail Breaker
+Rapier
+Estoc
+Ricard's Rapier
+Velka's Rapier
+Hand Axe
+Battle Axe
+Butcher Knife
+Gargoyle Tail Axe
+Crescent Axe
+Golem Axe
+Greataxe
+Demon's Greataxe
+Stone Greataxe
+Black Knight Greataxe
+Dragon King Greataxe
+Club
+Reinforced Club
+Blacksmith Giant Hammer
+Mace
+Morning Star
+Warpick
+Pickaxe
+Blacksmith Hammer
+Hammer of Vamos
+Large Club
+Great Club
+Demon's Great Hammer
+Grant
+Dragon Tooth
+Smough's Hammer
+Spear
+Winged Spear
+Partizan
+Four-Pronged Plow
+Pike
+Channeler's Trident
+Demon's Spear
+Silver Knight Spear
+Moonlight Butterfly Horn
+Obsidian Greatsword
+Dragonslayer Spear
+Halberd
+Lucerne
+Scythe
+Gargoyle's Halberd
+Giant's Halberd
+Titanite Catch Pole
+Black Knight Halberd
+Great Scythe
+Lifehunt Scythe
+Whip
+Notched Whip
+Guardian Tail
+Caestus
+Claw
+Dragon Bone Fist
+Dark Hand
+Short Bow
+Composite Bow
+Longbow
+Black Bow of Pharis
+Dragonslayer Greatbow
+Gough's Greatbow
+Darkmoon Bow
+Light Crossbow
+Heavy Crossbow
+Sniper Crossbow
+Avelyn
+Sorcerer's Catalyst
+Beatrice's Catalyst
+Logan's Catalyst
+Oolacile Ivory Catalyst
+Oolacile Catalyst
+Demon's Catalyst
+Izalith Catalyst
+Tin Banishment Catalyst
+Tin Crystallization Catalyst
+Tin Darkmoon Catalyst
+Manus Catalyst
+Pyromancy Flame
+Talisman
+Canvas Talisman
+Thorolund Talisman
+Ivory Talisman
+Sunlight Talisman
+Darkmoon Talisman
+Velka's Talisman
+Skull Lantern
+Mask of the Father
+Mask of the Mother
+Mask of the Child
+Royal Helm
+Sack
+Sunlight Maggot
+Symbol of Avarice
+Bloated Head
+Bloated Sorcerer Head
+Warrior's Round Shield
+Caduceus Round Shield
+Effigy Shield
+Red & White Round Shield
+Cracked Round Shield
+Plank Shield
+Small Leather Shield
+Leather Shield
+Buckler
+Target Shield
+Crystal Ring Shield
+East-West Shield
+Wooden Shield
+Large Leather Shield
+Heater Shield
+Tower Kite Shield
+Caduceus Kite Shield
+Hollow Soldier Shield
+Knight Shield
+Sanctus
+Balder Shield
+Spider Shield
+Grass Crest Shield
+Bloodshield
+Iron Round Shield
+Sunlight Shield
+Pierce Shield
+Spiked Shield
+Gargoyle's Shield
+Crystal Shield
+Crest Shield
+Dragon Crest Shield
+Silver Knight Shield
+Black Knight Shield
+Eagle Shield
+Tower Shield
+Black Iron Greatshield
+Giant Shield
+Bonewheel Shield
+Stone Greatshield
+Havel's Greatshield
+Greatshield of Artorias
+Cleansing Greatshield
+Tiny Being's Ring
+Cloranthy Ring
+Havel's Ring
+Ring of Steel Protection
+Spell Stoneplate Ring
+Flame Stoneplate Ring
+Thunder Stoneplate Ring
+Speckled Stoneplate Ring
+Bloodbite Ring
+Poisonbite Ring
+Cursebite Ring
+Red Tearstone Ring
+Blue Tearstone Ring
+Ring of Sacrifice
+Rare Ring of Sacrifice
+Bellowing Dragoncrest Ring
+Lingering Dragoncrest Ring
+Slumbering Dragoncrest Ring
+Dusk Crown Ring
+White Seance Ring
+Darkmoon Seance Ring
+Ring of the Sun's Firstborn
+Darkmoon Blade Covenant Ring
+Ring of the Sun Princess
+Leo Ring
+Wolf Ring
+Hawk Ring
+Hornet Ring
+East Wood Grain Ring
+Dark Wood Grain Ring
+Rusted Iron Ring
+Covetous Gold Serpent Ring
+Covetous Silver Serpent Ring
+Covenant of Artorias
+Orange Charred Ring
+Old Witch's Ring
+Cat Covenant Ring
+Ring of Fog
+Ring of Favor and Protection
+Ring of the Evil Eye
+Calamity Ring
+Soul Arrow
+Great Soul Arrow
+Heavy Soul Arrow
+Great Heavy Soul Arrow
+Homing Soulmass
+Homing Crystal Soulmass
+Soul Spear
+Crystal Soul Spear
+White Dragon Breath
+Magic Weapon
+Great Magic Weapon
+Crystal Magic Weapon
+Magic Shield
+Strong Magic Shield
+Aural Decoy
+Fall Control
+Hush
+Hidden Weapon
+Hidden Body
+Repair
+Cast Light
+Chameleon
+Remedy
+Resist Curse
+Dark Orb
+Dark Bead
+Dark Fog
+Pursuers
+Fireball
+Fire Orb
+Great Fireball
+Great Chaos Fireball
+Firestorm
+Fire Tempest
+Chaos Storm
+Combustion
+Great Combustion
+Fire Surge
+Fire Whip
+Chaos Fire Whip
+Poison Mist
+Toxic Mist
+Acid Surge
+Flash Sweat
+Iron Flesh
+Power Within
+Undead Rapport
+Black Flame
+Heal
+Great Heal Excerpt
+Great Heal
+Soothing Sunlight
+Replenishment
+Bountiful Sunlight
+Force
+Wrath of the Gods
+Emit Force
+Magic Barrier
+Great Magic Barrier
+Homeward
+Seek Guidance
+Karmic Justice
+Vow of Silence
+Tranquil Walk of Peace
+Lightning Spear
+Great Lightning Spear
+Sunlight Spear
+Sunlight Blade
+Darkmoon Blade
+Gravelord Sword Dance
+Gravelord Greatsword Dance
+Wooden arrow
+Standard arrow
+Large arrow
+Feather Arrow
+Fire arrow
+Poison arrow
+Moonlight arrow
+Dragonslayer Arrow
+Gough's Great Arrow
+Wood Bolt
+Standard Bolt
+Heavy Bolt
+Sniper Bolt
+Lightning Bolt
+Estus Flask
+Orange Guidance Soapstone
+White Sign Soapstone
+Sunlight Medal
+Red Sign Soapstone
+Red Eye Orb
+Cracked Red Eye Orb
+Blue Eye Orb
+Souvenir of Reprisal
+Black Eye Orb
+Dragon Eye
+Dragon Head Stone
+Dragon Torso Stone
+Eye of Death
+Black Separation Crystal
+Purple Coward's Crystal
+Book of the Guilty
+Indictement
+Servant Roster
+Green Blossom
+Elizabeth's Mushroom
+Bloodred Moss Clump
+Purple Moss Clump
+Blooming Purple Moss Clump
+Purging Stone
+Egg Vermifuge
+Divine Blessing
+Firebomb
+Black Firebomb
+Throwing Knife
+Poison Throwing Knife
+Dung Pie
+Repair Powder
+Charcoal Pine Resin
+Gold Pine Resin
+Rotten Pine Resin
+Lloyd's Talisman
+Alluring Skull
+Transient Curse
+Homeward Bone
+Prism Stone
+Hello Carving
+Thank You Carving
+Very Good! Carving
+I'm Sorry Carving
+Help Me! Carving
+Binoculars
+Soul of a Lost Undead
+Large Soul of a Lost Undead
+Soul of a Nameless Soldier
+Large Soul of a Nameless Soldier
+Soul of a Proud Knight
+Large Soul of a Proud Knight
+Soul of a Brave Warrior
+Large Soul of a Brave Warrior
+Soul of a Hero
+Soul of a Great Hero
+Fire Keeper Soul (Darkmoon Knightess)
+Fire Keeper Soul (Quelaag's Sister)
+Fire Keeper Soul (Anastacia of Astora)
+Fire Keeper Soul
+Soul of the Moonlight Buterfly
+Soul of Quelaag
+Core of an Iron Golem
+Soul of Ornstein
+Soul of Smough
+Soul of Sif
+Soul of Gwyndolin
+Soul of Priscilla
+Guardian Soul
+Soul of Artorias
+Soul of Manus
+Soul of Gwyn, Lord of Cinder
+Humanity
+Twin Humanities
+Pendant
+Silver Pendant
+Rubbish
+Copper Coin
+Silver Coin
+Gold Coin
+Darksign
+Dried Finger
+Titanite Shard
+Large Titanite Shard
+Titanite Chunk
+Titanite Slab
+Green Titanite Shard
+Blue Titanite Chunk
+Blue Titanite Slab
+Red Titanite Chunk
+Red Titanite Slab
+White Titanite Chunk
+White Titanite Slab
+Twinkling Titanite
+Demon Titanite
+Dragon Scale
+Lordvessel
+Lord Soul
+Bequeathed Lord Soul Shard
+Large Ember
+Very Large Ember
+Crystal Ember
+Large Flame Ember
+Chaos Flame Ember
+Large Magic Ember
+Enchanted Ember
+Divine Ember
+Large Divine Ember
+Dark Ember
+Repairbox
+Weapon Smithbox
+Armor Smithbox
+Bottomless Box
+Rite of Kindling
+Peculiar Doll
+Broken Pendant
+Master Key
+Crest of Artorias
+Dungeon Cell Key
+Undead Asylum F2 East Key
+Undead Asylum F2 West Key
+Big Pilgrim's Key
+Residence Key
+Mystery Key
+Basement Key
+Key to Depths
+Watchtower Basement Key
+Sewer Chamber Key
+Blighttown Key
+Key to New Londo Ruins
+Key to the Seal
+Cage Key
+Archive Tower Cell Key
+Archive Prison Extra Key
+Archive Tower Giant Cell Key
+Archive Tower Giant Door Key
+Annex Key
+Crest Key
+Fang Boar Helm
+Gargoyle Helm

@@ -1,10 +1,9 @@
 {
   "origin": [
+    "#description#"
+  ],
+  "description": [
     "#longDescription#",
-    "#longDescription#",
-    "#longDescription#",
-    "#longDescription#",
-    "#longDescription# #shortDescription#",
     "#longDescription# #shortDescription#",
     "#longDescription# #shortDescription#",
     "#longDescription# #longDescription#",
@@ -12,10 +11,21 @@
     "#longDescription# \n\n#longDescription#",
     "#longDescription# \n\n#longDescription#",
     "#longDescription# #longDescription# #shortDescription#",
+    "#longDescription# #longDescription# #longDescription#",
+    "#longDescription# #shortDescription# #longDescription#",
     "#longDescription# \n\n#longDescription# #shortDescription#",
     "#longDescription# \n\n#longDescription# #shortDescription#",
+    "#longDescription# \n\n#longDescription# #shortDescription#",
+    "#longDescription# \n\n#longDescription# #longDescription#",
     "#longDescription# #shortDescription# \n\n#longDescription#",
-    "#longDescription# #shortDescription# \n\n#longDescription#"
+    "#longDescription# #shortDescription# \n\n#longDescription#",
+    "#longDescription# #longDescription#\n\n#longDescription# #shortDescription#",
+    "#longDescription# #longDescription#\n\n#longDescription# #shortDescription#",
+    "#longDescription# #longDescription#\n\n#longDescription# #longDescription#",
+    "#longDescription# #longDescription# #shortDescription# \n\n#longDescription#",
+    "#longDescription# #longDescription# #shortDescription# \n\n#longDescription#",
+    "#longDescription# #longDescription# #shortDescription# \n\n#longDescription# #shortDescription#",
+    "#longDescription# #longDescription# #shortDescription# \n\n#longDescription# #shortDescription#"
   ],
   "color": [
     "emerald",
@@ -1395,7 +1405,7 @@
     "Like #person#'s body, the #item# features shells, spikes, and a coating of #thing# #thing#.",
     "#thing.capitalize# affected by wielder's #thing#.",
     "Imbued with a frightful #thing# energy which restores #thing# with each hit.",
-    "Imbued with a frightful heretical #thing# , this #item# absorbs #thing# upon #creature.a#'s death.",
+    "Imbued with a frightful heretical #thing#, this #item# absorbs #thing# upon #creature.a#'s death.",
     "Giant curved #item# forged using special methods in #place#.",
     "This unparalleled weapon cuts like #item.a# but is heavier than #item.a#.",
     "Requires extreme #thing#, #thing#, and #thing# to wield.",
